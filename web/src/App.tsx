@@ -1,5 +1,6 @@
 import { FormEvent, useCallback, useEffect, useMemo, useState } from "react";
 import { ALLOC_OPTIONS, countAllocOptions, matchesAllocFilter } from "./allocFilter";
+import AboutView from "./AboutView";
 import PendingView from "./PendingView";
 import StatsView from "./StatsView";
 import type {
@@ -84,18 +85,20 @@ const CHECKLIST_ITEMS: Array<{ key: keyof ValidationRecord["checklist"]; label: 
   { key: "manpower", label: "Manpower Availability" },
 ];
 
-type TabKey = "explorer" | "pending" | "stats";
+type TabKey = "explorer" | "pending" | "stats" | "about";
 
 function tabFromPath(pathname: string): TabKey {
   const clean = pathname.replace(/\/+$/, "").toLowerCase();
   if (clean === "/pending") return "pending";
   if (clean === "/statistics" || clean === "/stats") return "stats";
+  if (clean === "/about") return "about";
   return "explorer";
 }
 
 function pathForTab(tab: TabKey): string {
   if (tab === "pending") return "/pending";
   if (tab === "stats") return "/statistics";
+  if (tab === "about") return "/about";
   return "/";
 }
 
@@ -523,6 +526,12 @@ export default function App() {
             >
               Statistics
             </button>
+            <button
+              className={`nav-tab ${activeTab === "about" ? "active" : ""}`}
+              onClick={() => setActiveTab("about")}
+            >
+              About
+            </button>
           </div>
           <div className="kpis">
             <div className="kpi">
@@ -574,7 +583,9 @@ export default function App() {
         </div>
       </header>
 
-      {activeTab === "pending" ? (
+      {activeTab === "about" ? (
+        <AboutView catalog={catalog} resources={resources} />
+      ) : activeTab === "pending" ? (
         <PendingView
           catalog={catalog}
           onSelectFacility={(fcode) => {
