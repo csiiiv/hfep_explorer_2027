@@ -1,0 +1,465 @@
+category,subcategory,region,province,facility,infra,equipment,motor_vehicle,total,source
+1. Primary Care Facilities,1.a Construction of New Barangay Health Stations (BHS),CAR,Sagada,"Municipality of Sagada, Nacangan Barangay Health Station",2700000.0,0,0.0,2700000,NEP
+1. Primary Care Facilities,1.a Construction of New Barangay Health Stations (BHS),CAR,Sagada,"Municipality of Sagada, Taccong Barangay Health Station",2700000.0,0,0.0,2700000,NEP
+1. Primary Care Facilities,1.a Construction of New Barangay Health Stations (BHS),Region II,Isabela,"Municipality of Tumauini, Antagan 1st Barangay Health Station",4000000.0,0,0.0,4000000,NEP
+1. Primary Care Facilities,1.a Construction of New Barangay Health Stations (BHS),Region II,Isabela,"Municipality of Tumauini, Fugo Norte Barangay Health Station",4000000.0,0,0.0,4000000,NEP
+1. Primary Care Facilities,1.a Construction of New Barangay Health Stations (BHS),Region II,Isabela,"Municipality of Tumauini, Paragu Barangay Health Station",4000000.0,0,0.0,4000000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,CAR,Abra,"Municipality of Malibcong, Buanao Barangay Health Station",0.0,135000,0.0,135000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,CAR,Abra,"Municipality of Malibcong, Pacgued Barangay Health Station",0.0,135000,0.0,135000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,CAR,Mountain Province,"Municipality of Barlig, Fiangtin Barangay Health Station",0.0,115000,0.0,115000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,CAR,Mountain Province,"Municipality of Bauko, Letang Satellite Barangay Health Station",0.0,135000,0.0,135000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,CAR,Mountain Province,"Municipality of Bontoc, Alab Oriente Barangay Health Station",0.0,230000,0.0,230000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,CAR,Mountain Province,"Municipality of Bontoc, Bayyo Barangay Health Station",0.0,135000,0.0,135000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,CAR,Mountain Province,"Municipality of Bontoc, Gonogon Barangay Health Station",0.0,135000,0.0,135000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,CAR,Mountain Province,"Municipality of Bontoc, Poblacion Bontoc Barangay Health Station",0.0,135000,0.0,135000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,CAR,Mountain Province,"Municipality of Leto, Mina Barangay Health Station",0.0,115000,0.0,115000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,CAR,Mountain Province,"Municipality of Natonin, Batnong Barangay Health Station",0.0,160000,0.0,160000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,CAR,Mountain Province,"Municipality of Natonin, Tappo Barangay Health Station",0.0,115000,0.0,115000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,CAR,Mountain Province,"Municipality of Natonin, Tonglayan Barangay Health Station",0.0,115000,0.0,115000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,CAR,Mountain Province,"Municipality of Paracelis, Butigue Barangay Health Station",0.0,115000,0.0,115000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,CAR,Mountain Province,"Municipality of Sadanga, Bekigan Barangay Health Station",0.0,135000,0.0,135000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,CAR,Mountain Province,"Municipality of Sadanga, Betwagan Barangay Health Station",0.0,125000,0.0,125000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,CAR,Mountain Province,"Municipality of Sadanga, Samoki Barangay Health Station",0.0,135000,0.0,135000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,CAR,Mountain Province,Saclit Barangay Health Station,0.0,115000,0.0,115000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,Region VI,Aklan,Mina Barangay Health Station,400000.0,0,0.0,400000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,Region VIII,Biliran,"Municipality of Caibiran, Asug Barangay Health Station",1180000.0,0,0.0,1180000,NEP
+1. Primary Care Facilities,1.b Completion/Upgrading/Repair/Equipping of BHS,Region VIII,Eastern Samar,"Municipality of Balangkayan, Balogo Barangay Health Station",590000.0,0,0.0,590000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,CAR,Ifugao,"Alfonso Lista, Ifugao Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,CAR,Ifugao,"Banawe, Ifugao Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,CAR,Kalinga,"Pasil, Kalinga Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,CAR,Kalinga,"Tinglayan, Kalinga Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,CAR,Mt. Province,"Bontoc, Mt. Province Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,CAR,Mt. Province,"Paracelis, Mt. Province Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,CAR,Mt. Province,"Sadanga, Mt. Province Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region II,Cagayan,"Solano, Cagayan Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region II,Nueva Vizcaya,"Solano, Nueva Vizcaya Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region III,Bulacan,"Brgy. Sampaloc, San Miguel, Bulacan Bagong Pilipinas Health Center",5400000.0,0,0.0,5400000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region III,Bulacan,"Brgy. Sta. Rita, San Miguel, Bulacan Bagong Pilipinas Health Center",5400000.0,0,0.0,5400000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region III,Nueva Ecija,"Brgy. Dos Poblacion, Quezon, Nueva Ecija Bagong Pilipinas Health Center",5400000.0,0,0.0,5400000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region III,Tarlac,"La Paz, Tarlac Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,CALABARZON,Laguna,"Cavinti, Laguna Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,CALABARZON,Laguna,"San Pablo, Laguna Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,CALABARZON,Quezon,"Alabat, Quezon Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,CALABARZON,Quezon,"Mulanay, Quezon Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region VI,Capiz,"Brgy. Indayagan, Ma-ayon, Capiz Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region VI,Capiz,"Brgy. Pawa, Panay, Capiz Bagong Pilipinas Health Center",4000000.0,0,0.0,4000000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region VI,Iloilo,"Banate, Iloilo Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region VI,Iloilo,"Oton, Iloilo Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region VII,Cebu,"Sibonga, Cebu Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region VIII,Leyte,"Carigara, Leyte Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region VIII,Leyte,"Pastrana, Leyte Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region VIII,Northern Samar,"Mapanas, Northern Samar Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region IX,Zamboanga City,"Sacol Island, Zamboanga City Bagong Pilipinas Health Center",3250000.0,540000,0.0,3790000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region IX,Zamboanga del Norte,"Mutia, Zamboanga Del Norte Bagong Pilipinas Health Center",3250000.0,540000,0.0,3790000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region IX,Sulu,"Tapul, Sulu Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region X,Bukidnon,"Damulog, Bukidnon Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region X,Lanao del Norte,Baroy Bagong Pilipinas Health Center,1750000.0,0,0.0,1750000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region X,Lanao del Norte,"Kapatagan, Lanao Del Norte Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region X,Misamis Oriental,"Sugbongcogon, Misamis Oriental Bagong Pilipinas Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region XIII,Surigao Del Norte,"Alegria, Surigao Del Norte Bagong Pilipinas Health Center",4000000.0,0,0.0,4000000,NEP
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region XIII,Surigao Del Norte,"Tubod, Surigao Del Norte Bagong Pilipinas Health Center",4000000.0,0,0.0,4000000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Caloocan, Amparo Health Center",0.0,185000,0.0,185000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Caloocan, Bagong Silang Phase 10 Health Center",0.0,140000,0.0,140000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Caloocan, Bagong Silang Phase 2 Health Center",0.0,140000,0.0,140000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Caloocan, Bagumbong Main Health Center",0.0,140000,0.0,140000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Caloocan, Barangay 180 Health Center",0.0,185000,0.0,185000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Caloocan, Camarin 175 Health Center",0.0,140000,0.0,140000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Caloocan, Grace Park Health Center",0.0,140000,0.0,140000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Navotas, Bagumbayan Super Health Center",8100000.0,0,0.0,8100000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Navotas, Kaunlaran Super Health Center",0.0,11600000,0.0,11600000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Navotas, Tangos North Super Health Center",8100000.0,0,0.0,8100000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Navotas, Tanza Pabahay Health Center",0.0,8800000,0.0,8800000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Canumay East Health Center",0.0,140000,0.0,140000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Don Pedro Health Center",0.0,220000,0.0,220000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Gen. T. de Leon (GTDL) Lying-in Clinic",0.0,285000,0.0,285000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Mabolo Health Center",0.0,55000,0.0,55000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Malanday 3S Health Center",0.0,190000,0.0,190000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Northville I Health Center",0.0,220000,0.0,220000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Pinalagad Health Center",0.0,190000,0.0,190000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Polo Health Center",0.0,440000,0.0,440000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Rincon Health Center",0.0,170000,0.0,170000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Sitio Kabatuhan Health Center, City of Valenzuela",0.0,220000,0.0,220000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Tagalag Health Center",0.0,220000,0.0,220000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Ugong 3S Health Center",0.0,220000,0.0,220000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Metro Manila,Navotas Medical and Wellness Center,0.0,7500000,0.0,7500000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NCR,Navotas City,"City of Navotas, Tangos Health Center",0.0,140000,0.0,140000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,CAR,Abra,Manabo Rural Health Unit,0.0,920000,0.0,920000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,CAR,Apayao,Conner Rural Health Unit,0.0,135000,0.0,135000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,CAR,Ifugao,Hingyon Rural Health Unit,0.0,135000,0.0,135000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,CAR,Ifugao,Mayoyao Rural Health Unit,0.0,135000,0.0,135000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,CAR,Kalinga,Pasil Rural Health Unit,0.0,920000,0.0,920000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,CAR,Kalinga,Pinukpuk Rural Health Unit I,0.0,1000000,0.0,1000000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,CAR,Kalinga,Pinukpuk Rural Health Unit II,0.0,920000,0.0,920000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,CAR,Kalinga,Rizal Rural Health Unit,0.0,920000,0.0,920000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,CAR,Kalinga,Tabuk City Health Office,0.0,920000,0.0,920000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,CAR,Kalinga,"Tabuk City, Kalinga Rural Health Unit",2700000.0,0,0.0,2700000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,CAR,Kalinga,Tabuk Rural Health Unit I,0.0,1000000,0.0,1000000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,CAR,Kalinga,Tabuk Rural Health Unit II,0.0,920000,0.0,920000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,CAR,Kalinga,Tabuk Rural Health Unit III,0.0,1000000,0.0,1000000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,CAR,Kalinga,Tabuk Rural Health Unit IV,0.0,920000,0.0,920000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,CAR,Kalinga,Tanudan Rural Health Unit,0.0,920000,0.0,920000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,CAR,Kalinga,Tinglayan Rural Health Unit,0.0,920000,0.0,920000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,CAR,Mountain Province,Bontoc Rural Health Unit,0.0,135000,0.0,135000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region III,Bulacan,Obando Super Health Center,0.0,2900000,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region III,Nueva Ecija,Talavera Super Health Center,2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,CALABARZON,Batangas,"Laurel, Batangas Super Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,MIMAROPA,Palawan,"Coron, Palawan Super Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region V,Albay,"Malilipon, Albay Super Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region V,Masbate,San Pascual Birthing Facility II,1000000.0,0,0.0,1000000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VI,Aklan,Pacita Calizo-Cortes Health Center,3500000.0,0,0.0,3500000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VI,Antique,Culasi Rural Health Unit,0.0,2900000,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VI,Antique,Pandan Primary Care Facility,2900000.0,0,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VI,Capiz,Panitan Super Health Center,0.0,2900000,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VI,Capiz,Pontevedra Primary Care Facility,0.0,2900000,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VI,Capiz,President Roxas Primary Care Facility,0.0,2900000,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VI,Capiz,Roxas City Super Health Center,0.0,2900000,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VI,Capiz,Sigma Super Health Center,0.0,2900000,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VI,Iloilo,"Batad, Iloilo Super Health Center",2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VI,Iloilo,Mina Primary Care Facility,2100000.0,0,0.0,2100000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VI,Iloilo,San Dionisio Primary Care Facility,2700000.0,0,0.0,2700000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VI,Iloilo,Zarraga Super Health Center,2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NIR,Negros Occidental,Bago City Rural Health Unit,0.0,5800000,0.0,5800000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NIR,Negros Occidental,Cauayan Rural Health Unit,0.0,2900000,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NIR,Negros Occidental,Condoni Rural Health Unit,0.0,2900000,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NIR,Negros Occidental,Hinoba-an Rural Health Unit,0.0,2900000,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NIR,Negros Occidental,Ilog Rural Health Unit,0.0,5800000,0.0,5800000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NIR,Negros Occidental,La Carlota City Super Health Center,3500000.0,5800000,0.0,9300000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NIR,Negros Occidental,Pulupandan Rural Health Unit,0.0,2900000,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NIR,Negros Occidental,Sipalay Rural Health Unit,0.0,2900000,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NIR,Negros Occidental,Talisay City Rural Health Unit,0.0,17500000,0.0,17500000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NIR,Negros Occidental,Victorias City Rural Health Unit,35000000.0,11500000,0.0,46500000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NIR,Negros Oriental,Amlan Rural Health Unit,8800000.0,0,0.0,8800000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NIR,Negros Oriental,Bindoy Rural Health Unit,4000000.0,0,0.0,4000000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NIR,Negros Oriental,Dumaguete Rural Health Unit III,600000.0,0,0.0,600000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NIR,Negros Oriental,Guihulngan Rural Health Unit,2900000.0,0,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NIR,Negros Oriental,Mabinay Rural Health Unit,0.0,8800000,0.0,8800000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NIR,Negros Oriental,Tanjay City Rural Health Unit,2900000.0,0,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,NIR,Negros Oriental,Vallehermoso Rural Health Unit,2900000.0,0,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VII,Bohol,Buenavista Rural Health Unit,0.0,2200000,0.0,2200000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VII,Bohol,Corella Rural Health Unit,0.0,1200000,0.0,1200000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VII,Bohol,Dauis Super Health Center,1750000.0,0,0.0,1750000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VII,Bohol,Tubigon Rural Health Unit II,0.0,1500000,0.0,1500000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VII,Cebu,Borbon Rural Health Unit II,0.0,2200000,0.0,2200000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VII,Cebu,Cordova Primary Care Facility,2900000.0,0,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VII,Cebu,Ronda Rural Health Unit,0.0,160000,0.0,160000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VII,Cebu,San Remigio Super Health Center,2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VII,Cebu,"Tabuelan, Cebu Polyclinic",0.0,2700000,0.0,2700000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VII,Cebu,Tudela Rural Health Unit,0.0,160000,0.0,160000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VIII,Biliran,Maripipi Rural Health Unit,0.0,2900000,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VIII,Northern Samar,Allen Rural Health Unit,0.0,300000,0.0,300000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VIII,Northern Samar,Bobon Bagong Pilipinas Health Center,2900000.0,0,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VIII,Northern Samar,Palapag Super Health Center,2700000.0,540000,0.0,3240000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VIII,Northern Samar,San Roque Super Health Center,0.0,220000,0.0,220000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VIII,Samar,Pagsanghan Rural Health Unit,0.0,400000,0.0,400000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region IX,City of Isabela,Isabela Rural Health Unit,0.0,2900000,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region IX,Sulu,Parang Rural Health Unit,0.0,2400000,0.0,2400000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region IX,Sulu,Tapul Rural Health Unit,2900000.0,540000,0.0,3440000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region IX,Zamboanga Sibugay,Siay Rural Health Unit,0.0,1400000,0.0,1400000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region X,Lanao del Norte,Munai Super Health Center,0.0,1100000,0.0,1100000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region X,Misamis Occidental,Plaridel Rural Health Unit,0.0,650000,0.0,650000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region X,Misamis Occidental,Tudela Rural Health Station,0.0,920000,0.0,920000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region XII,Cotabato,Midsayap Rural Health Unit,5000000.0,0,0.0,5000000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region XII,Sultan Kudarat,Masiag Rural Health Unit Annex,1470000.0,0,0.0,1470000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region XIII,Dinagat Islands,Libjo Rural Health Unit,210000.0,0,0.0,210000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region XIII,Surigao Del Norte,Cabawa Birthing Facility,120000.0,0,0.0,120000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region XIII,Surigao Del Norte,Cagniyog Super Health Center,1750000.0,2000000,0.0,3750000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region XIII,Surigao Del Norte,General Luna Super Health Center,2900000.0,0,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region XIII,Surigao Del Norte,Luna Super Health Center - Surigao City,2900000.0,0,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region XIII,Surigao del Sur,Bayabas Municipal Health and Sanitation Office,0.0,360000,0.0,360000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region XIII,Surigao del Sur,Cortes Rural Health Unit,0.0,170000,0.0,170000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region XIII,Surigao del Sur,Lianga Rural Health Unit,0.0,140000,0.0,140000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region XIII,Surigao del Sur,Tago Rural Health Unit,0.0,2900000,0.0,2900000,NEP
+1. Primary Care Facilities,1.d Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region XIII,Surigao del Sur,Tandag Super Health Center,2900000.0,0,0.0,2900000,NEP
+1. Primary Care Facilities,1.e Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region III,Tarlac,Tarlac City LGU Health Center,11700000.0,10000000,0.0,21700000,NEP
+1. Primary Care Facilities,1.e Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region III,Tarlac,Tarlac City Provincial Health Office,14700000.0,14000000,0.0,28700000,NEP
+1. Primary Care Facilities,1.e Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VIII,City of Tacloban,Tacloban City Health Office,0.0,1600000,0.0,1600000,NEP
+1. Primary Care Facilities,1.e Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VIII,Leyte,Ormoc City Health Office,0.0,2900000,0.0,2900000,NEP
+1. Primary Care Facilities,1.e Completion/Upgrading/Repair/Equipping of Primary Care Facilities,Region VIII,Samar,Catbalogan City Health Office,0.0,2900000,0.0,2900000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NCR,Metro Manila,Mandaluyong City Medical Center,0.0,17500000,0.0,17500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NCR,Metro Manila,Navotas City Hospital,0.0,8400000,0.0,8400000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NCR,Metro Manila,Ospital Ng Paranaque I,0.0,21500000,0.0,21500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NCR,Metro Manila,Ospital Ng Paranaque II,0.0,19800000,0.0,19800000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NCR,Metro Manila,Sta. Ana Hospital,0.0,7000000,0.0,7000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NCR,Metro Manila,Valenzuela Health Medical Center (ValHealth),80000000.0,0,0.0,80000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region I,Ilocos Norte,Bangui District Hospital,11000000.0,0,0.0,11000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region I,Ilocos Norte,Dona Josefa Edralin Marcos District Hospital,10682000.0,0,0.0,10682000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region I,Ilocos Norte,Governor Roque B. Ablan Sr. Memorial Hospital,11500000.0,0,0.0,11500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region I,Ilocos Norte,Laoag City General Hospital,17000000.0,0,0.0,17000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,CAR,Ifugao,Tinoc District Hospital,6900000.0,0,0.0,6900000,NEP
+2. LGU Hospitals,2. LGU Hospitals,CAR,Kalinga,Kalinga Provincial Hospital,0.0,6500000,0.0,6500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,CAR,Kalinga,Pinukpuk District Hospital,0.0,450000,0.0,450000,NEP
+2. LGU Hospitals,2. LGU Hospitals,CAR,Kalinga,Tanudan Municipal Hospital,6900000.0,2400000,0.0,9300000,NEP
+2. LGU Hospitals,2. LGU Hospitals,CAR,Kalinga,Western Kalinga District Hospital,2500000.0,0,0.0,2500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,CAR,Mountain Province,Barlig District Hospital,9200000.0,0,0.0,9200000,NEP
+2. LGU Hospitals,2. LGU Hospitals,CAR,Mountain Province,Besao District Hospital,11500000.0,0,0.0,11500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,CAR,Mountain Province,Paracelis District Hospital,11500000.0,0,0.0,11500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region II,Cagayan,Baggao District Hospital,13000000.0,0,0.0,13000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region II,Cagayan,Calayan Infirmary Hospital,9200000.0,0,0.0,9200000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region II,Cagayan,Dr. Tomas Nolasco Sr. Memorial Hospital,0.0,5400000,0.0,5400000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region II,Cagayan,Lasam District Hospital,13500000.0,0,0.0,13500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region II,Cagayan,Nuestra Seniora de Piat District Hospital,9500000.0,0,0.0,9500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region II,Isabela,Angadanan Integragted Community Hospital,8100000.0,0,0.0,8100000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region II,Isabela,Governor Faustino N. Dy Sr. Memorial Hospital,50000000.0,0,0.0,50000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region II,Nueva Vizcaya,Dupax District Hospital,8000000.0,0,0.0,8000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region II,Nueva Vizcaya,Nueva Vizcaya Provincial Hospital,13500000.0,0,0.0,13500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region III,Aurora,Aurora Memorial Hospital,0.0,5400000,0.0,5400000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region III,Bataan,Jose C. Payumo Jr. Memorial Hospital,0.0,14600000,0.0,14600000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region III,Bulacan,Bustos Community Hospital,0.0,15000000,0.0,15000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region III,Bulacan,Ospital ng Lungsod San Jose del Monte,0.0,80000000,0.0,80000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region III,Bulacan,St. Bernadette Children and Maternity Hospital,0.0,50000000,0.0,50000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region III,Masantol,Masantol Community Hospital in Pampanga,5400000.0,0,0.0,5400000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region III,Nueva Ecija,San Antonio District Hospital,0.0,95000,0.0,95000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region III,Pampanga,Candaba Municipal Infirmary,50000000.0,25000000,0.0,75000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region III,Tarlac,Camiling District Hospital,11700000.0,0,0.0,11700000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region III,Tarlac,Capas Medical Complex,5400000.0,0,0.0,5400000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region III,Tarlac,Concepcion District Hospital,14500000.0,0,0.0,14500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region III,Tarlac,La Paz Medicare and Community Hospital,11700000.0,0,0.0,11700000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region III,Tarlac,Moncada District Hospital,11700000.0,0,0.0,11700000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region III,Tarlac,Paniqui General Hospital,11700000.0,0,0.0,11700000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region III,Tarlac,Tarlac Provincial Hospital,11700000.0,0,0.0,11700000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region III,Zambales,Subic General Hospital,0.0,15000000,0.0,15000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,CALABARZON,Laguna,Sta. Rosa City Community Hospital,0.0,30000000,0.0,30000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,MIMAROPA,Marinduque,Marinduque Provincial Hospital,0.0,9000000,0.0,9000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,MIMAROPA,Oriental Mindoro,MIMAROPA Regional Hospital,50000000.0,0,0.0,50000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,MIMAROPA,Oriental Mindoro,Oriental Mindoro Central District Hospital,7000000.0,0,0.0,7000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,MIMAROPA,Oriental Mindoro,Oriental Mindoro Southern District Hospital,13000000.0,0,0.0,13000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,MIMAROPA,Palawan,Aborlan Medicare Hospital,0.0,6500000,0.0,6500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,MIMAROPA,Palawan,Araceli Dumaran District Hospital,0.0,4500000,0.0,4500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,MIMAROPA,Palawan,Coron District Hospital,11500000.0,0,0.0,11500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,MIMAROPA,Palawan,El Nido Community Hospital,0.0,4500000,0.0,4500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,MIMAROPA,Romblon,Romblon District Hospital,0.0,10000000,0.0,10000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,MIMAROPA,Romblon,Romblon Provincial Hospital,0.0,11500000,0.0,11500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,MIMAROPA,Romblon,Sibuyan District Hospital,0.0,10000000,0.0,10000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region V,Catanduanes,Eastern Bicol Medical Center,0.0,7000000,0.0,7000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VI,Aklan,Ibajay District Hospital,15000000.0,11500000,0.0,26500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VI,Antique,Angel Salazar Memorial General Hospital,30000000.0,11500000,0.0,41500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VI,Antique,Patnongon Community Hospital,30000000.0,0,0.0,30000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VI,Guimaras,Dr. Catalino Gallego Nava Provincial Hospital,30000000.0,30000000,0.0,60000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VI,Guimaras,Nueva Valencia District Hospital,23000000.0,0,0.0,23000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VI,Iloilo,Iloilo Provincial Hospital,20000000.0,11700000,0.0,31700000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VI,Iloilo,Passi City Hospital,15000000.0,0,0.0,15000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VI,Iloilo,Rep. Pedro G. Trono Memorial Hospital,155000000.0,0,0.0,155000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VI,Iloilo,San Joaquin Mother & Child Hospital,12000000.0,0,0.0,12000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Occidental,"Alfredo E. Maranon, Sr. Memorial District Hospital",14000000.0,0,0.0,14000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Occidental,Bago City Hospital,11700000.0,0,0.0,11700000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Occidental,Cadiz City District Hospital,19704000.0,13500000,0.0,33204000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Occidental,Cadiz City Hospital (Different Facility from Cadiz DISTRICT Hospital),24200000.0,20000000,0.0,44200000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Occidental,Don Salvador Benedicto Memorial District Hospital,0.0,13500000,0.0,13500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Occidental,Gov. Valeriano M. Gatuslao Memorial District Hospital,17500000.0,14000000,0.0,31500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Occidental,La Castellana Hospital,0.0,5500000,0.0,5500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Occidental,San Carlos City Hospital,17500000.0,8800000,0.0,26300000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Occidental,Teresita L. Jalandoni Provincial Hospital,0.0,50000000,0.0,50000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Occidental,Valladolid District Hospital,0.0,9000000,0.0,9000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Oriental,Bais City District Hospital,8800000.0,13500000,0.0,22300000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Oriental,Bayawan District Hospital,13000000.0,13500000,0.0,26500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Oriental,Bindoy District Hospital,13500000.0,0,0.0,13500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Oriental,Canlaon City District Hospital,18000000.0,7000000,0.0,25000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Oriental,Cong. Lamberto L. Macias Memorial Hospital,11500000.0,11500000,0.0,23000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Oriental,Gov. William Villegas Memorial Hospital,20000000.0,8000000,0.0,28000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Oriental,Luz-Sikatuna Community Primary Hospital,9500000.0,19000000,0.0,28500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Oriental,Negros Oriental Provincial Hospital,11500000.0,17000000,0.0,28500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Negros Oriental,Tanjay City General Hospital,22000000.0,0,0.0,22000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Siquijor,Lazi Medicare Community Hospital,12000000.0,8000000,0.0,20000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,NIR,Siquijor,Siquijor Provincial Hospital,16000000.0,20000000,0.0,36000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VII,Bohol,Francisco Dagohoy Memorial Hospital,0.0,17500000,0.0,17500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VII,Cebu,Mandaue City Hospital,35000000.0,0,0.0,35000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VIII,Biliran,Biliran Provincial Hospital,0.0,8800000,0.0,8800000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VIII,Eastern Samar,Albino Duran Memorial Hospital,0.0,2800000,0.0,2800000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VIII,Eastern Samar,Felipe Abrigo Memorial Hospital,0.0,5800000,0.0,5800000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VIII,Eastern Samar,Oras District Hospital,0.0,3200000,0.0,3200000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VIII,Eastern Samar,Taft District Hospital,0.0,3000000,0.0,3000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VIII,Leyte,Barugo Municipal Hospital,0.0,2300000,0.0,2300000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VIII,Leyte,Carigara District Hospital,0.0,4000000,0.0,4000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VIII,Leyte,Matalom Community Hospital,0.0,450000,0.0,450000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VIII,Leyte,Northwestern Leyte District Hospital,0.0,4000000,0.0,4000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VIII,Leyte,Ormoc City Hospital,0.0,1300000,0.0,1300000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VIII,Leyte,Tacloban City Hospital,0.0,1700000,0.0,1700000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VIII,Northern Samar,Dr. Gregorio B. Tan Memorial Hospital,0.0,2300000,0.0,2300000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VIII,Northern Samar,North Samar Provincial Hospital,0.0,13000000,0.0,13000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region VIII,Samar,Tarangan Community Hospital,0.0,5800000,0.0,5800000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region IX,Zamboanga del Sur,Zamboanga del Sur Medical Center,8500000.0,0,0.0,8500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region IX,Zamboanga Sibugay,Alicia District Hospital,13000000.0,0,0.0,13000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region IX,Zamboanga Sibugay,Dr. George Tocao Hofer Medical Center,12500000.0,0,0.0,12500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region IX,Zamboanga Sibugay,Olutanga Municipal Hospital,12500000.0,0,0.0,12500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region X,Bukidnon,Bukidnon Provincial Hospital - Maramag,1750000.0,0,0.0,1750000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region X,Lanao del Norte,Kapatagan Provincial Hospital,0.0,1750000,0.0,1750000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region X,Lanao del Norte,Lanao Del Norte Provincial Hospital - Baroy,1750000.0,0,0.0,1750000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region X,Misamis Occidental,ASENSO Misamis Occidental Medical Center,0.0,120000000,0.0,120000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region X,Misamis Occidental,Dona Marida D. Tan Memorial Hospital,1750000.0,0,0.0,1750000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region X,Misamis Occidental,SM Lao Memorial City General Hospital,1750000.0,0,0.0,1750000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region X,Misamis Oriental,El Salvador Infirmary,1750000.0,0,0.0,1750000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region X,Misamis Oriental,Mindanao State University Naawan Infirmary,1750000.0,0,0.0,1750000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region X,Misamis Oriental,Misamis Oriental Provincial Hospital - Balingasag,1750000.0,0,0.0,1750000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region X,Misamis Oriental,St. Paul Hospital,30000000.0,0,0.0,30000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XI,Davao de Oro,Davao de Oro Provincial Hospital - Laak,15000000.0,0,0.0,15000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XI,Davao de Oro,Davao de Oro Provincial Hospital - Maragusan,15000000.0,0,0.0,15000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XI,Davao de Oro,Davao de Oro Provincial Hospital - Pantukan,15000000.0,0,0.0,15000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XI,Davao de Oro,Monkayo Community Infirmary,15000000.0,0,0.0,15000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XI,Davao del Norte,Davao del Norte Hospital - Kapalong,2900000.0,0,0.0,2900000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XI,Davao del Norte,Davao Prison and Penal Farm Hospital,2900000.0,0,0.0,2900000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XI,Davao del Sur,Davao del Sur Provincial Hospital,2900000.0,0,0.0,2900000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XI,Davao del Sur,Gregorio Matas District Hospital,15000000.0,0,0.0,15000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XI,Davao Occidental,Malita Womens and Child Hospital - Malita,2900000.0,0,0.0,2900000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XI,Davao Oriental,Davao Oriental Provincial Medical Center - Cateel,15000000.0,0,0.0,15000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XI,Davao Oriental,Davao Oriental Provincial Medical Center - Manay,15000000.0,0,0.0,15000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XII,Cotabato,Cotabato Provincial Hospital,0.0,17500000,0.0,17500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XII,Cotabato,Kidapawan City General Hospital,0.0,17500000,0.0,17500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XII,South Cotabato,South Cotabato Provincial Hospital,12500000.0,0,0.0,12500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XIII,City of Buutan,Buutan Medical Center,0.0,7000000,0.0,7000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XIII,Surigao Del Norte,Claver Infirmary,0.0,3000000,0.0,3000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XIII,Surigao Del Norte,Del Carmen District Hospital,0.0,650000,0.0,650000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XIII,Surigao Del Norte,Gigaquit District Hospital,0.0,550000,0.0,550000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XIII,Surigao Del Norte,Mainit District Hospital,0.0,150000,0.0,150000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XIII,Surigao Del Norte,Malimono District Hospital,0.0,130000,0.0,130000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XIII,Surigao Del Norte,Pilar District Hospital,0.0,180000,0.0,180000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XIII,Surigao Del Norte,Socorro District Hospital,0.0,550000,0.0,550000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XIII,Surigao Del Norte,Sta. Monica District Hospital,0.0,500000,0.0,500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XIII,Surigao Del Norte,Surigao del Norte Provincial Hospital,0.0,1000000,0.0,1000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XIII,Surigao del Sur,Cortes Municipal Hospital,0.0,300000,0.0,300000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XIII,Surigao del Sur,Lianga District Hospital,0.0,2300000,0.0,2300000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XIII,Surigao del Sur,Marihatag District Hospital,0.0,1000000,0.0,1000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,Region XIII,Surigao del Sur,San Miguel Community Hospital,0.0,1600000,0.0,1600000,NEP
+2. LGU Hospitals,2. LGU Hospitals,BARMM,Basilan,Lamitan District Hospital - Lamitan City,4000000.0,0,0.0,4000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,BARMM,Basilan,Sumisip District Hospital,4700000.0,0,0.0,4700000,NEP
+2. LGU Hospitals,2. LGU Hospitals,BARMM,Lanao del Sur,Balindong District Hospital,12000000.0,0,0.0,12000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,BARMM,Lanao del Sur,Wao District Hospital,9000000.0,0,0.0,9000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,BARMM,Maguindanao del Norte,Datu Blah Sinsuat District Hospital - Upi,6000000.0,0,0.0,6000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,BARMM,Maguindanao del Norte,Datu Odin Sinsuat District Hospital,6000000.0,0,0.0,6000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,BARMM,Maguindanao del Norte,Iranon Provincial Hospital,30000000.0,6500000,0.0,36500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,BARMM,Maguindanao del Norte,Sibuto District Hospital,4500000.0,0,0.0,4500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,BARMM,Maguindanao del Sur,Buluan District Hospital - Buluan,6000000.0,0,0.0,6000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,BARMM,Maguindanao del Sur,Maguindanao Provincial Hospital,0.0,13000000,0.0,13000000,NEP
+2. LGU Hospitals,2. LGU Hospitals,BARMM,Tawi-Tawi,Datu Halun Sakilan Memorial Hospial - Boggao,0.0,5500000,0.0,5500000,NEP
+2. LGU Hospitals,2. LGU Hospitals,BARMM,Tawi-Tawi,Languyan District Hospital,4000000.0,0,0.0,4000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,NCR,Metro Manila,Dr. Jose Fabella Memorial Hospital,0.0,100000000,0.0,100000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,NCR,Metro Manila,Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium,0.0,150000000,0.0,150000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,NCR,Metro Manila,East Avenue Medical Center,0.0,200000000,0.0,200000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,NCR,Metro Manila,Jose R. Reyes Memorial Medical Center,0.0,150000000,0.0,150000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,NCR,Metro Manila,Las Pinas General Hospital and Satellite Trauma Center,15000000.0,0,0.0,15000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,NCR,Metro Manila,National Center for Mental Health,30000000.0,0,0.0,30000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,NCR,Metro Manila,National Children's Hospital,0.0,20000000,0.0,20000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,NCR,Metro Manila,National Kidney and Transplant Institute,150000000.0,0,0.0,150000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,NCR,Metro Manila,Philippine Cancer Center,900000000.0,0,0.0,900000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,NCR,Metro Manila,Philippine Heart Center,0.0,150000000,0.0,150000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,NCR,Metro Manila,Philippine Orthopedic Center,0.0,250000000,0.0,250000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,NCR,Metro Manila,Quirino Memorial Medical Center,0.0,10000000,0.0,10000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,NCR,Metro Manila,Rizal Medical Center,0.0,10000000,0.0,10000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,NCR,Metro Manila,San Lazaro Hospital,0.0,50000000,0.0,50000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,NCR,Metro Manila,San Lorenzo Ruiz General Hospital,0.0,75000000,0.0,75000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,NCR,Metro Manila,Tondo Medical Center,0.0,50000000,0.0,50000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,NCR,Metro Manila,Valenzuela Medical Center,200000000.0,0,0.0,200000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region I,Ilocos Norte,Mariano Marcos Memorial Hospital and Medical Center,0.0,50000000,0.0,50000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region I,Ilocos Sur,Ilocos Sur Medical Center,0.0,150000000,0.0,150000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region I,La Union,Ilocos Training and Regional Medical Center,0.0,30000000,0.0,30000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region I,Pangasinan,Conrado F. Estrella Regional Medical and Trauma Center,100000000.0,200000000,0.0,300000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region I,Pangasinan,Region I Medical Center,0.0,50000000,0.0,50000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,CAR,Apayao,Conner District Hospital,0.0,200000000,0.0,200000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,CAR,Apayao,Far North Luzon General Hospital and Training Center,0.0,200000000,0.0,200000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region II,Batanes,Batanes General Hospital,0.0,20000000,0.0,20000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region II,Cagayan,Cagayan Valley Medical Center,0.0,50000000,0.0,50000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region II,Cagayan,Northwestern Cagayan General Hospital,100000000.0,0,0.0,100000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region II,Isabela,Southern Isabela Medical Center,75000000.0,50000000,0.0,125000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region II,Nueva Vizcaya,Region II Trauma and Medical Center,0.0,50000000,0.0,50000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region III,Bataan,Bataan General Hospital and Medical Center,0.0,50000000,0.0,50000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region III,Bataan,Mariveles Mental Wellness and General Hospital,40000000.0,0,0.0,40000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region III,Bulacan,Joni Villanueva General Hospital,0.0,10000000,0.0,10000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region III,Nueva Ecija,Dr. Paulino J. Garcia Memorial Research and Medical Center,0.0,50000000,0.0,50000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region III,Nueva Ecija,Talavera General Hospital,0.0,10000000,0.0,10000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region III,Pampanga,Central Luzon Center for Health Development (Clark Multi-Specialty Medical Center),200000000.0,200000000,0.0,400000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region III,Pampanga,Jose B. Lingad Memorial General Hospital,50000000.0,300000000,0.0,350000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region III,Pampanga,Sen. Edgardo J. Angara General Hospital (SEJAGEN),200000000.0,0,0.0,200000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,CALABARZON,Batangas,Batangas Medical Center,80000000.0,0,0.0,80000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,CALABARZON,Cavite,Southern Tagalog Regional Hospital,80000000.0,0,0.0,80000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,CALABARZON,Laguna,Laguna Regional Hospital,50000000.0,0,0.0,50000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,CALABARZON,Quezon,Lucena City Hospital,20000000.0,0,0.0,20000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,CALABARZON,Quezon,Maria L. Eleazar General Hospital,100000000.0,50000000,0.0,150000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,CALABARZON,Quezon,Southern Luzon Multi-Specialty Medical Center,80000000.0,0,0.0,80000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,MIMAROPA,Palawan,Culion Sanitarium and General Hospital,20000000.0,130000000,0.0,150000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,MIMAROPA,Palawan,Ospital ng Palawan,0.0,130000000,0.0,130000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region V,Albay,Bicol Regional Hospital and Medical Center,0.0,150000000,0.0,150000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region V,Camarines Sur,Bicol Medical Center,0.0,50000000,0.0,50000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region V,Camarines Sur,Bicol Region General Hospital and Geriatric Medical Center,0.0,80000000,0.0,80000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region VI,Iloilo,Don Jose S. Monfort Medical Center,0.0,50000000,0.0,50000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region VI,Iloilo,Western Visayas Medical Center,60000000.0,100000000,0.0,160000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region VI,Iloilo,Western Visayas Sanitarium and General Hospital,40000000.0,20000000,0.0,60000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,NIR,Negros Occidental,Corazon Locsin Montelibano Memorial Regional Hospital,200000000.0,0,0.0,200000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region VII,Bohol,Don Emilio Del Valle Memorial Hospital,80000000.0,0,0.0,80000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region VII,Bohol,Gov. Celestino Gallares Memorial Medical Center,0.0,80000000,0.0,80000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region VII,Bohol,Gov. Celestino Gallares Multi-Specialty Medical Center,0.0,10000000,0.0,10000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region VII,Cebu,Cebu South Medical Center,0.0,100000000,0.0,100000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region VII,Cebu,Eversley Child Sanitarium and General Hospital,50000000.0,0,0.0,50000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region VII,Cebu,St. Anthony Mother and Child Hospital,0.0,45000000,0.0,45000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region VII,Cebu,Vicente Sotto Memorial Medical Center,0.0,320000000,0.0,320000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region VIII,Leyte,Eastern Visayas Medical Center,0.0,80000000,0.0,80000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region VIII,Leyte,Governor Benjamin T. Romualdez General Hospital and Schistosomiasis Center,10000000.0,30000000,0.0,40000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region VIII,Samar,Samar Island Medical Center,80000000.0,100000000,0.0,180000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region IX,Zamboanga del Norte,Dr. Jose Rizal Memorial Hospital,0.0,50000000,0.0,50000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region IX,Zamboanga del Norte,Liloy General Hospital,200000000.0,0,0.0,200000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region IX,Zamboanga del Sur,Zamboanga City Medical Center,0.0,50000000,0.0,50000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region X,Camiguin,Camiguin General Hospital,90000000.0,59703000,0.0,149703000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region X,Lanao del Sur,Amai Pakpak Medical Center,0.0,50000000,0.0,50000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region X,Misamis Occidental,Mayor Hilarion A. Ramiro Sr. Medical Center,150000000.0,0,0.0,150000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region X,Misamis Oriental,First Misamis Oriental General Hospital,60000000.0,40000000,0.0,100000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region X,Misamis Oriental,North Eastern Misamis General Hospital,250000000.0,0,0.0,250000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region X,Misamis Oriental,Northern Mindanao Medical Center,200000000.0,0,0.0,200000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region X,Misamis Oriental,Northern Mindanao Psychiatric Facility,90000000.0,0,0.0,90000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region XI,Davao del Norte,Davao Regional Medical Center,120000000.0,0,0.0,120000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region XI,Davao Occidental,Davao Occidental General Hospital,200000000.0,50000000,0.0,250000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region XII,Maguindanao del Norte,Cotabato Regional and Medical Center,0.0,20000000,0.0,20000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region XII,Maguindanao del Norte,Cotabato Sanitarium and General Hospital,0.0,80000000,0.0,80000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region XII,South Cotabato,SOCCSKSARGEN General Hospital,130000000.0,0,0.0,130000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region XIII,Surigao Del Norte,Caraga Regional Hospital,0.0,70000000,0.0,70000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,Region XIII,Surigao del Sur,Adela Serra Ty Memorial Medical Center,0.0,50000000,0.0,50000000,NEP
+3. DOH Hospitals,3. DOH Hospitals,BARMM,Basilan,Basilan Medical Center,30000000.0,50000000,0.0,80000000,NEP
+4. BUCAS,4.a Completion of BUCAS,Region X,Camiguin,Guinsiliban BUCAS Center,1700000.0,0,0.0,1700000,NEP
+4. BUCAS,4.a Completion of BUCAS,Region X,Camiguin,Mahinog BUCAS Center,1700000.0,0,0.0,1700000,NEP
+4. BUCAS,4.a Completion of BUCAS,Region X,Misamis Occidental,Plaridel BUCAS Center,1000000.0,0,0.0,1000000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,Region I,La Union,"DOH DATRC - San Fernando, La Union",0.0,35000000,0.0,35000000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,Region I,Pangasinan,DOH DATRC - Dagupan,13000000.0,0,0.0,13000000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,CAR,Mountain Province,"DOH DATRC - Bauko Mountain, Province",4000000.0,0,0.0,4000000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,Region II,Isabela,"DOH DATRC - Ilagan, Isabela",40000000.0,0,0.0,40000000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,Region III,Bataan,"DOH DATRC - Pilar, Bataan",50000000.0,0,0.0,50000000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,Region III,Nueva Ecija,DOH Mega Drug Abuse Treatment and Rehabilitation Center,50000000.0,0,0.0,50000000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,CALABARZON,Cavite,DOH DATRC - CALABARZON,30000000.0,0,0.0,30000000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,CALABARZON,Cavite,DOH DATRC - Tagaytay,20000000.0,0,0.0,20000000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,Region V,Albay,DOH DATRC - Malinao,15000000.0,5000000,0.0,20000000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,Region V,Camarines Sur,"DOH DATRC - San Fernando, Camarines Sur",18000000.0,0,0.0,18000000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,Region VI,Iloilo,"DOH DATRC - Pototan, Iloilo",30000000.0,0,0.0,30000000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,Region VIII,Leyte,"DOH DATRC - Dulag, Leyte",15000000.0,1500000,0.0,16500000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,Region IX,Zamboanga del Sur,DOH DATRC - Zamboanga,0.0,7000000,0.0,7000000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,Region X,Bukidnon,DOH DATRC - Bukidnon,10000000.0,0,0.0,10000000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,Region X,Misamis Oriental,DOH DATRC - Cagayan de Oro,15000000.0,0,0.0,15000000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,Region XI,Davao del Sur,"DOH DATRC - Malagos, Davao",17000000.0,0,0.0,17000000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,Region XII,Sarangani,DOH DATRC - SOCCSKSARGEN,0.0,2000000,0.0,2000000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,Region XIII,Agusan del Sur,DOH DATRC - Agusan del Sur,12000000.0,0,0.0,12000000,NEP
+5. Completion of Drug Abuse Treatment and Rehabilitation Centers,5. Completion of Drug Abuse Treatment and Rehabilitation Centers,Region XIII,Surigao Del Norte,DOH DATRC - CARAGA,17000000.0,0,0.0,17000000,NEP
+6. Bureau of Quarantine,6. Bureau of Quarantine,NCR,Metro Manila,Bureau of Quarantine - Manila Station,0.0,220000,0.0,220000,NEP
+6. Bureau of Quarantine,6. Bureau of Quarantine,NCR,Metro Manila,Bureau of Quarantine - Pasay Station,85000000.0,0,0.0,85000000,NEP
+6. Bureau of Quarantine,6. Bureau of Quarantine,Region III,Pampanga,Bureau of Quarantine - Clark Station,0.0,180000,0.0,180000,NEP
+6. Bureau of Quarantine,6. Bureau of Quarantine,Region V,Albay,Bureau of Quarantine - Tabaco Station,0.0,110000,0.0,110000,NEP
+6. Bureau of Quarantine,6. Bureau of Quarantine,Region VI,Iloilo,Bureau of Quarantine - Iloilo Station,0.0,160000,0.0,160000,NEP
+6. Bureau of Quarantine,6. Bureau of Quarantine,Region VII,Cebu,Bureau of Quarantine - Cebu Station,0.0,160000,0.0,160000,NEP
+6. Bureau of Quarantine,6. Bureau of Quarantine,Region IX,Zamboanga del Sur,Bureau of Quarantine - Zamboanga Station,0.0,110000,0.0,110000,NEP
+6. Bureau of Quarantine,6. Bureau of Quarantine,Region XI,Davao del Sur,Bureau of Quarantine - Davao Station,0.0,180000,0.0,180000,NEP
+7. Other Health Care Facilities,7.a Other Facilities,NCR,Metro Manila,Marikina Diagnostic and Medical Arts Center,15000000.0,0,0.0,15000000,NEP
+7. Other Health Care Facilities,7.a Other Facilities,CALABARZON,Laguna,"District 4, Laguna",2700000.0,540000,0.0,3240000,NEP
+7. Other Health Care Facilities,7.a Other Facilities,Region VI,Iloilo,"Sara, Iloilo",2700000.0,540000,0.0,3240000,NEP
+7. Other Health Care Facilities,7.b Other NGAs,Region V,Albay,FDA South Luzon Cluster Regional Field Office V,13500000.0,0,0.0,13500000,NEP
+7. Other Health Care Facilities,7.b Other NGAs,Region IX,Zamboanga del Sur,FDA Mindanao West Cluster Regional Field Office IX,14500000.0,0,0.0,14500000,NEP
+7. Other Health Care Facilities,7.b Other NGAs,Region X,City of Cagayan De Oro,FDA and NNC Office - Cagayan de Oro City,17000000.0,0,0.0,17000000,NEP
+7. Other Health Care Facilities,7.c Blood Facilities,Region VII,City of Cebu,Sub National Blood Center Central Visayas,9500000.0,0,0.0,9500000,NEP
+7. Other Health Care Facilities,7.c Blood Facilities,Region XII,Maguindanao del Norte,Regional Blood Center,37000000.0,0,0.0,37000000,NEP
+7. Other Health Care Facilities,7.d Central Office,NCR,Metro Manila,DOH Central Office,75000000.0,500000000,252000000.0,827000000,NEP
+7. Other Health Care Facilities,7.e Dialysis Centers,CAR,Apayao,"Brgy. Paddaoan, Conner, Apayao Dialysis Center",20000000.0,0,0.0,20000000,NEP
+7. Other Health Care Facilities,7.e Dialysis Centers,Region II,Cagayan,Solana Renal & Diagnostic Center,0.0,6000000,0.0,6000000,NEP
+7. Other Health Care Facilities,7.e Dialysis Centers,Region VI,Iloilo,"Sara, Iloilo Dialysis Center",20000000.0,0,0.0,20000000,NEP
+7. Other Health Care Facilities,7.f Provincial Offices,Region X,Lanao del Norte,Lanao del Norte Provincial DOH Office and Wellness Center,15000000.0,0,0.0,15000000,NEP
+7. Other Health Care Facilities,7.g Reference Laboratories,Region II,Isabela,Region II Sub National Reference Laboratory,60000000.0,0,0.0,60000000,NEP
+7. Other Health Care Facilities,7.g Reference Laboratories,Region XII,South Cotabato,Sub National Reference Laboratory,25000000.0,0,0.0,25000000,NEP
+7. Other Health Care Facilities,7.h Regional Offices,Region II,Cagayan,Cagayan Valley Center for Health Development,15000000.0,0,0.0,15000000,NEP
+7. Other Health Care Facilities,7.h Regional Offices,NIR,Negros Oriental,Negros Island Center for Health Development,150000000.0,0,0.0,150000000,NEP
+7. Other Health Care Facilities,7.h Regional Offices,Region VII,City of Cebu,Central Visayas Center for Health Development,60000000.0,0,0.0,60000000,NEP
+7. Other Health Care Facilities,7.h Regional Offices,Region VIII,Leyte,Eastern Visayas Center for Health Developement,80000000.0,0,0.0,80000000,NEP
+7. Other Health Care Facilities,7.i Warehouse,Region V,Camarines Norte,DOH Provincial Medicine Warehouse,10000000.0,0,0.0,10000000,NEP
+7. Other Health Care Facilities,7.i Warehouse,Region XII,South Cotabato,SOCCSKSARGEN Center for Health Development,30000000.0,0,0.0,30000000,NEP
+7. Other Health Care Facilities,7.j State Universities,Region VI,City of Iloilo,West Visayas State University Medical Center,0.0,100000000,0.0,100000000,NEP

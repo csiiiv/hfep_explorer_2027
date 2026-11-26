@@ -1,0 +1,14 @@
+# Local downloads + Python env
+downloads/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/.~lock.*
+data/*.sqlite
+data/*.sqlite-wal
+data/*.sqlite-shm
+web/node_modules/
+web/dist/
+data/Senate_report_data/
+

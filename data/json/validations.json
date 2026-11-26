@@ -1,0 +1,16 @@
+{
+  "FAC-0001": {
+    "status": null,
+    "checklist": {},
+    "note": "",
+    "updated_at": "2026-11-26T01:53:25.577Z"
+  },
+  "FAC-0002": {
+    "status": null,
+    "checklist": {
+      "site_readiness": false
+    },
+    "note": "",
+    "updated_at": "2026-11-26T01:57:05.234Z"
+  }
+}

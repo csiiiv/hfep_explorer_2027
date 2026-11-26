@@ -1,0 +1,10 @@
+metric,value
+resources_total,318
+resources_public,192
+resources_auth_required,113
+resources_not_found,2
+resources_no_url,11
+facilities_public,276
+facilities_auth_required,469
+facilities_no_url,11
+facilities_not_found,2

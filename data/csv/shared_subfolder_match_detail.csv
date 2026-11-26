@@ -1,0 +1,405 @@
+resource_code,subfolder,leaf_name,direct_files,mb,matched_facility_count,best_facility_code,best_facility_name,best_score,all_matches
+RES-0029,***Removed/Balbalan RHU- Equipment,Balbalan RHU- Equipment,4,1.58,0,,,0.0,
+RES-0029,***Removed/Juan M. Duyan MH- Equipment,Juan M. Duyan MH- Equipment,1,1.0,0,,,0.0,
+RES-0029,***Removed/Kalinga Gabriela Mija Kim MC- Equipment,Kalinga Gabriela Mija Kim MC- Equipment,5,14.61,0,,,0.0,
+RES-0029,***Removed/Lubuagan RHU- Equipment,Lubuagan RHU- Equipment,7,2.4,0,,,0.0,
+RES-0029,***Removed/Pasil RHU- Equipment,Pasil RHU- Equipment,5,7.22,1,FAC-0086,Pasil Rural Health Unit,0.952,FAC-0086:Pasil Rural Health Unit (0.952)
+RES-0029,***Removed/ambulance,ambulance,1,18.01,0,,,0.0,
+RES-0029,Kalinga Provincial Hospital,Kalinga Provincial Hospital,6,45.42,0,,,0.0,
+RES-0029,Pinukpuk DH- Equipment,Pinukpuk DH- Equipment,2,41.19,1,FAC-0089,Pinukpuk Rural Health Unit I,0.77,FAC-0089:Pinukpuk Rural Health Unit I (0.77)
+RES-0029,Pinukpuk RHU I,Pinukpuk RHU I,2,41.62,2,FAC-0089,Pinukpuk Rural Health Unit I,0.962,FAC-0089:Pinukpuk Rural Health Unit I (0.962) | FAC-0090:Pinukpuk Rural Health Unit II (0.63)
+RES-0029,Pinukpuk RHU II,Pinukpuk RHU II,1,40.98,2,FAC-0090,Pinukpuk Rural Health Unit II,0.964,FAC-0090:Pinukpuk Rural Health Unit II (0.964) | FAC-0089:Pinukpuk Rural Health Unit I (0.885)
+RES-0029,Rizal RHU- Equipment,Rizal RHU- Equipment,6,1.38,1,FAC-0091,Rizal Rural Health Unit,0.952,FAC-0091:Rizal Rural Health Unit (0.952)
+RES-0029,Tabuk CHO Main-Equipment,Tabuk CHO Main-Equipment,4,42.03,2,FAC-0092,Tabuk City Health Office,0.938,FAC-0092:Tabuk City Health Office (0.938) | FAC-0094:Tabuk Rural Health Unit I (0.862)
+RES-0029,Tabuk RHU I-Equipment,Tabuk RHU I-Equipment,4,41.98,5,FAC-0094,Tabuk Rural Health Unit I,0.943,FAC-0094:Tabuk Rural Health Unit I (0.943) | FAC-0092:Tabuk City Health Office (0.861) | FAC-0095:Tabuk Rural Health Unit II (0.617) | FAC-0096:Tabuk Rural Health Unit III (0.616)
+RES-0029,Tabuk RHU II- Equipment,Tabuk RHU II- Equipment,6,43.25,3,FAC-0095,Tabuk Rural Health Unit II,0.946,FAC-0095:Tabuk Rural Health Unit II (0.946) | FAC-0094:Tabuk Rural Health Unit I (0.868) | FAC-0092:Tabuk City Health Office (0.785)
+RES-0029,Tabuk RHU III-Equipment,Tabuk RHU III-Equipment,5,42.12,3,FAC-0096,Tabuk Rural Health Unit III,0.948,FAC-0096:Tabuk Rural Health Unit III (0.948) | FAC-0094:Tabuk Rural Health Unit I (0.867) | FAC-0092:Tabuk City Health Office (0.784)
+RES-0029,Tabuk RHU IV- Equipment,Tabuk RHU IV- Equipment,4,42.14,3,FAC-0097,Tabuk Rural Health Unit IV,0.946,FAC-0097:Tabuk Rural Health Unit IV (0.946) | FAC-0094:Tabuk Rural Health Unit I (0.868) | FAC-0092:Tabuk City Health Office (0.785)
+RES-0029,Tanudan MH- Equipment,Tanudan MH- Equipment,7,4.59,2,FAC-0098,Tanudan Municipal Hospital,0.782,FAC-0098:Tanudan Municipal Hospital (0.782) | FAC-0099:Tanudan Rural Health Unit (0.77)
+RES-0029,Tanudan RHU- Equipment,Tanudan RHU- Equipment,6,52.75,2,FAC-0099,Tanudan Rural Health Unit,0.957,FAC-0099:Tanudan Rural Health Unit (0.957) | FAC-0098:Tanudan Municipal Hospital (0.851)
+RES-0029,Tinglayan RHU- Equipment,Tinglayan RHU- Equipment,5,42.66,1,FAC-0100,Tinglayan Rural Health Unit,0.96,FAC-0100:Tinglayan Rural Health Unit (0.96)
+RES-0039,LGU OF NAVOTAS - ME.3 Proof of Land Ownership,LGU OF NAVOTAS - ME.3 Proof of Land Ownership,3,5.55,1,FAC-0042,Navotas Medical and Wellness Center,0.754,FAC-0042:Navotas Medical and Wellness Center (0.754)
+RES-0055,Gat Andres Bonifacio Medical Center,Gat Andres Bonifacio Medical Center,1,12.35,0,,,0.0,
+RES-0055,Justice Jose Abad Santos General Hospital,Justice Jose Abad Santos General Hospital,9,45.26,1,FAC-0032,Justice Jose Abad Santos General Hospital,0.98,FAC-0032:Justice Jose Abad Santos General Hospital (0.98)
+RES-0055,OSPITAL NG MAYNILA  2027 PROPOSAL EQUIPMENT,OSPITAL NG MAYNILA  2027 PROPOSAL EQUIPMENT,1,89.78,1,FAC-0048,Ospital ng Sampaloc,0.646,FAC-0048:Ospital ng Sampaloc (0.646)
+RES-0055,OSPITAL NG MAYNILA  2027 PROPOSAL EQUIPMENT/Ospital ng Maynila Medical Center - Proclamation No. 61 s. 1962,Ospital ng Maynila Medical Center - Proclamation No. 61 s. 1962,6,11.6,1,FAC-0048,Ospital ng Sampaloc,0.581,FAC-0048:Ospital ng Sampaloc (0.581)
+RES-0055,Ospital ng Maynila Medical Center - Cancer Treatment Facility,Ospital ng Maynila Medical Center - Cancer Treatment Facility,5,92.17,1,FAC-0048,Ospital ng Sampaloc,0.616,FAC-0048:Ospital ng Sampaloc (0.616)
+RES-0055,Ospital ng Sampaloc,Ospital ng Sampaloc,2,16.07,1,FAC-0048,Ospital ng Sampaloc,0.98,FAC-0048:Ospital ng Sampaloc (0.98)
+RES-0055,Presidential Security Group Station Hospital,Presidential Security Group Station Hospital,3,16.82,0,,,0.0,
+RES-0055,Sta. Ana Hospital,Sta. Ana Hospital,6,20.04,1,FAC-0059,Sta. Ana Hospital,0.98,FAC-0059:Sta. Ana Hospital (0.98)
+RES-0055,Tax Declaration of Health Centers,Tax Declaration of Health Centers,49,65.62,0,,,0.0,
+RES-0059,Ambulance/Besao RHU,Besao RHU,1,0.19,1,FAC-0104,Besao District Hospital,0.85,FAC-0104:Besao District Hospital (0.85)
+RES-0059,Ambulance/Natonin SHC,Natonin SHC,1,0.42,0,,,0.0,
+RES-0059,Ambulance/PDOHO MP PTV,PDOHO MP PTV,1,0.42,0,,,0.0,
+RES-0059,Ambulance/Paracelis RHU,Paracelis RHU,1,0.77,1,FAC-0123,Paracelis District Hospital,0.86,FAC-0123:Paracelis District Hospital (0.86)
+RES-0059,Ambulance/Sadanga RHU,Sadanga RHU,1,0.43,0,,,0.0,
+RES-0059,Equipment,Equipment,4,809.59,0,,,0.0,
+RES-0059,Equipment/Alab Oriente BHS,Alab Oriente BHS,5,46.63,1,FAC-0111,"Municipality of Bontoc, Alab Oriente Barangay Health Station",0.896,"FAC-0111:Municipality of Bontoc, Alab Oriente Barangay Health Station (0.896)"
+RES-0059,Equipment/Barlig DH,Barlig DH,4,59.8,1,FAC-0103,Barlig District Hospital,0.88,FAC-0103:Barlig District Hospital (0.88)
+RES-0059,Equipment/Batnong BHS,Batnong BHS,4,41.92,1,FAC-0116,"Municipality of Natonin, Batnong Barangay Health Station",0.878,"FAC-0116:Municipality of Natonin, Batnong Barangay Health Station (0.878)"
+RES-0059,Equipment/Bayyo BHS,Bayyo BHS,4,43.15,1,FAC-0112,"Municipality of Bontoc, Bayyo Barangay Health Station",0.878,"FAC-0112:Municipality of Bontoc, Bayyo Barangay Health Station (0.878)"
+RES-0059,Equipment/Bekigan BHS,Bekigan BHS,2,41.65,1,FAC-0120,"Municipality of Sadanga, Bekigan Barangay Health Station",0.878,"FAC-0120:Municipality of Sadanga, Bekigan Barangay Health Station (0.878)"
+RES-0059,Equipment/Besao DH,Besao DH,7,43.46,1,FAC-0104,Besao District Hospital,0.877,FAC-0104:Besao District Hospital (0.877)
+RES-0059,Equipment/Betwagan BHS,Betwagan BHS,2,0.8,1,FAC-0121,"Municipality of Sadanga, Betwagan Barangay Health Station",0.879,"FAC-0121:Municipality of Sadanga, Betwagan Barangay Health Station (0.879)"
+RES-0059,Equipment/Bontoc GH,Bontoc GH,4,42.77,2,FAC-0105,Bontoc General Hospital,0.881,FAC-0105:Bontoc General Hospital (0.881) | FAC-0106:Bontoc Rural Health Unit (0.761)
+RES-0059,Equipment/Bontoc RHU,Bontoc RHU,4,43.14,2,FAC-0106,Bontoc Rural Health Unit,0.953,FAC-0106:Bontoc Rural Health Unit (0.953) | FAC-0105:Bontoc General Hospital (0.855)
+RES-0059,Equipment/Butigue BHS,Butigue BHS,2,41.65,1,FAC-0119,"Municipality of Paracelis, Butigue Barangay Health Station",0.877,"FAC-0119:Municipality of Paracelis, Butigue Barangay Health Station (0.877)"
+RES-0059,Equipment/Fiangtin BHS,Fiangtin BHS,6,42.3,1,FAC-0109,"Municipality of Barlig, Fiangtin Barangay Health Station",0.88,"FAC-0109:Municipality of Barlig, Fiangtin Barangay Health Station (0.88)"
+RES-0059,Equipment/Gonogon BHS,Gonogon BHS,4,42.97,1,FAC-0113,"Municipality of Bontoc, Gonogon Barangay Health Station",0.881,"FAC-0113:Municipality of Bontoc, Gonogon Barangay Health Station (0.881)"
+RES-0059,Equipment/Letang BHS,Letang BHS,4,42.25,1,FAC-0110,"Municipality of Bauko, Letang Satellite Barangay Health Station",0.857,"FAC-0110:Municipality of Bauko, Letang Satellite Barangay Health Station (0.857)"
+RES-0059,Equipment/Palitud BHS,Palitud BHS,2,41.65,0,,,0.0,
+RES-0059,Equipment/Paracelis DH,Paracelis DH,5,18.07,1,FAC-0123,Paracelis District Hospital,0.887,FAC-0123:Paracelis District Hospital (0.887)
+RES-0059,Equipment/Poblacion Bontoc BHS,Poblacion Bontoc BHS,4,44.76,3,FAC-0114,"Municipality of Bontoc, Poblacion Bontoc Barangay Health Station",0.913,"FAC-0114:Municipality of Bontoc, Poblacion Bontoc Barangay Health Station (0.913) | FAC-0106:Bontoc Rural Health Unit (0.786) | FAC-0105:Bontoc General Hospital (0.767)"
+RES-0059,Equipment/Saclit BHS,Saclit BHS,2,41.65,1,FAC-0124,Saclit Barangay Health Station,0.95,FAC-0124:Saclit Barangay Health Station (0.95)
+RES-0059,Equipment/Samoki BHS,Samoki BHS,4,43.15,1,FAC-0122,"Municipality of Sadanga, Samoki Barangay Health Station",0.876,"FAC-0122:Municipality of Sadanga, Samoki Barangay Health Station (0.876)"
+RES-0059,Equipment/Tappo BHS,Tappo BHS,3,42.48,1,FAC-0117,"Municipality of Natonin, Tappo Barangay Health Station",0.875,"FAC-0117:Municipality of Natonin, Tappo Barangay Health Station (0.875)"
+RES-0059,Equipment/Tonglayan BHS,Tonglayan BHS,4,41.93,1,FAC-0118,"Municipality of Natonin, Tonglayan Barangay Health Station",0.881,"FAC-0118:Municipality of Natonin, Tonglayan Barangay Health Station (0.881)"
+RES-0059,Infra/AGUID BHS,AGUID BHS,4,1.31,0,,,0.0,
+RES-0059,Infra/BALILI BHS,BALILI BHS,3,12.39,0,,,0.0,
+RES-0059,Infra/BALUGAN BHS,BALUGAN BHS,4,15.45,1,FAC-0209,Baluga Barangay Health Station,0.785,FAC-0209:Baluga Barangay Health Station (0.785)
+RES-0059,Infra/BARLIG DISTRICT HOSPITAL,BARLIG DISTRICT HOSPITAL,3,48.37,1,FAC-0103,Barlig District Hospital,0.98,FAC-0103:Barlig District Hospital (0.98)
+RES-0059,Infra/BARLIG SUPER HEALTH CENTER,BARLIG SUPER HEALTH CENTER,5,8.49,1,FAC-0103,Barlig District Hospital,0.852,FAC-0103:Barlig District Hospital (0.852)
+RES-0059,Infra/BAUKO RURAL HEALTH UNIT,BAUKO RURAL HEALTH UNIT,1,0.96,0,,,0.0,
+RES-0059,Infra/BAUKO SUB-STATION,BAUKO SUB-STATION,3,9.21,0,,,0.0,
+RES-0059,Infra/BESAO DISTRICT HOSPITAL,BESAO DISTRICT HOSPITAL,5,29.65,1,FAC-0104,Besao District Hospital,0.98,FAC-0104:Besao District Hospital (0.98)
+RES-0059,Infra/BESAO SUPER HEALTH CENTER,BESAO SUPER HEALTH CENTER,5,27.44,1,FAC-0104,Besao District Hospital,0.85,FAC-0104:Besao District Hospital (0.85)
+RES-0059,Infra/BONTOC GENERAL HOSPITAL,BONTOC GENERAL HOSPITAL,3,5.63,2,FAC-0105,Bontoc General Hospital,0.98,FAC-0105:Bontoc General Hospital (0.98) | FAC-0106:Bontoc Rural Health Unit (0.847)
+RES-0059,Infra/FIDELISAN BHS,FIDELISAN BHS,4,2.52,0,,,0.0,
+RES-0059,Infra/GUINA-ANG BHS,GUINA-ANG BHS,3,2.59,0,,,0.0,
+RES-0059,Infra/LETANG BHS,LETANG BHS,4,12.77,1,FAC-0110,"Municipality of Bauko, Letang Satellite Barangay Health Station",0.853,"FAC-0110:Municipality of Bauko, Letang Satellite Barangay Health Station (0.853)"
+RES-0059,Infra/MACALANA BHS,MACALANA BHS,3,3.73,0,,,0.0,
+RES-0059,Infra/MOUNT DATA BHS,MOUNT DATA BHS,3,6.53,0,,,0.0,
+RES-0059,Infra/OGO-OG BHS,OGO-OG BHS,3,2.58,0,,,0.0,
+RES-0059,Infra/OTUCAN SUR BHS,OTUCAN SUR BHS,3,4.08,0,,,0.0,
+RES-0059,Infra/PARACELIS DISTRICT HOSPITAL,PARACELIS DISTRICT HOSPITAL,3,17.15,1,FAC-0123,Paracelis District Hospital,0.98,FAC-0123:Paracelis District Hospital (0.98)
+RES-0059,Infra/PARACELIS SUPER HEALTH CENTER,PARACELIS SUPER HEALTH CENTER,2,6.84,1,FAC-0123,Paracelis District Hospital,0.857,FAC-0123:Paracelis District Hospital (0.857)
+RES-0059,Infra/PDOHO-MP BUILDING,PDOHO-MP BUILDING,4,12.84,0,,,0.0,
+RES-0059,Infra/PUDO BHS,PUDO BHS,5,5.82,0,,,0.0,
+RES-0059,Infra/Proper Banawel Birthing Clinic,Proper Banawel Birthing Clinic,1,7.98,0,,,0.0,
+RES-0059,Infra/SABANGAN SUPER HEALTH CENTER,SABANGAN SUPER HEALTH CENTER,5,24.17,0,,,0.0,
+RES-0059,Infra/SADANGA SUPER HEALTH CENTER,SADANGA SUPER HEALTH CENTER,6,66.0,0,,,0.0,
+RES-0059,Infra/Sagada SHC,Sagada SHC,1,0.22,0,,,0.0,
+RES-0059,Infra/TACCONG BHS,TACCONG BHS,3,6.63,0,,,0.0,
+RES-0059,Infra/TALUBIN BHS,TALUBIN BHS,3,3.08,0,,,0.0,
+RES-0059,Infra/TAPPO BHS,TAPPO BHS,5,2.2,1,FAC-0117,"Municipality of Natonin, Tappo Barangay Health Station",0.871,"FAC-0117:Municipality of Natonin, Tappo Barangay Health Station (0.871)"
+RES-0070,Ambulance/Bucay MH,Bucay MH,3,0.46,0,,,0.0,
+RES-0070,Ambulance/Dolores MDH,Dolores MDH,3,0.65,0,,,0.0,
+RES-0070,Ambulance/La Paz DH,La Paz DH,3,2.36,0,,,0.0,
+RES-0070,Ambulance/Lacub RHU,Lacub RHU,1,0.95,0,,,0.0,
+RES-0070,Ambulance/Luba RHU,Luba RHU,3,0.49,0,,,0.0,
+RES-0070,Ambulance/Manabo RHU,Manabo RHU,4,2.17,1,FAC-0063,Manabo Rural Health Unit,0.953,FAC-0063:Manabo Rural Health Unit (0.953)
+RES-0070,Ambulance/Sallapadan RHU,Sallapadan RHU,3,4.22,0,,,0.0,
+RES-0070,Ambulance/Tubo RHU,Tubo RHU,3,2.77,0,,,0.0,
+RES-0070,Ambulance/Villaviciosa MCH,Villaviciosa MCH,3,16.13,0,,,0.0,
+RES-0070,Equipment/***Removed/Abra PH,Abra PH,3,6.22,0,,,0.0,
+RES-0070,Equipment/***Removed/Bucay MH,Bucay MH,3,0.35,0,,,0.0,
+RES-0070,Equipment/***Removed/Daguioman RHU,Daguioman RHU,3,0.94,0,,,0.0,
+RES-0070,Equipment/***Removed/Lapaz DH,Lapaz DH,3,1.08,0,,,0.0,
+RES-0070,Equipment/***Removed/Luba RHU,Luba RHU,3,0.51,0,,,0.0,
+RES-0070,Equipment/***Removed/Malibcong RHU,Malibcong RHU,2,0.27,0,,,0.0,
+RES-0070,Equipment/***Removed/Teimpo BHS,Teimpo BHS,3,2.33,0,,,0.0,
+RES-0070,Equipment/***Removed/Tubatuba BHS,Tubatuba BHS,3,1.86,0,,,0.0,
+RES-0070,Equipment/***Removed/Tubo RHU,Tubo RHU,2,0.84,0,,,0.0,
+RES-0070,Equipment/***Removed/Ud-udiao BHS,Ud-udiao BHS,2,1.06,0,,,0.0,
+RES-0070,Equipment/***Removed/Villaviciosa MCH,Villaviciosa MCH,3,11.27,0,,,0.0,
+RES-0070,Equipment/***Removed/Villaviciosa RHU,Villaviciosa RHU,2,4.02,0,,,0.0,
+RES-0070,Equipment/Abra/La Paz RHU,La Paz RHU,8,1.8,0,,,0.0,
+RES-0070,Equipment/Abra/San Gregorio BHS- La Paz,San Gregorio BHS- La Paz,6,1.82,0,,,0.0,
+RES-0070,Equipment/Buanao BHS,Buanao BHS,5,43.69,1,FAC-0064,"Municipality of Malibcong, Buanao Barangay Health Station",0.875,"FAC-0064:Municipality of Malibcong, Buanao Barangay Health Station (0.875)"
+RES-0070,Equipment/Manabo RHU,Manabo RHU,2,41.39,1,FAC-0063,Manabo Rural Health Unit,0.953,FAC-0063:Manabo Rural Health Unit (0.953)
+RES-0070,Equipment/Pacgued BHS,Pacgued BHS,5,43.06,1,FAC-0065,"Municipality of Malibcong, Pacgued Barangay Health Station",0.877,"FAC-0065:Municipality of Malibcong, Pacgued Barangay Health Station (0.877)"
+RES-0070,Infra/18. San Gregorio BHS- La Paz,18. San Gregorio BHS- La Paz,9,4.76,0,,,0.0,
+RES-0070,Infra/27. Luba RHU,27. Luba RHU,5,1.0,0,,,0.0,
+RES-0070,Infra/28. Duldulao BHS - Malibcong,28. Duldulao BHS - Malibcong,3,1.71,0,,,0.0,
+RES-0070,Infra/29. Binasaran BHS - Malibcong,29. Binasaran BHS - Malibcong,4,4.34,0,,,0.0,
+RES-0070,Infra/37. San Isidro RHU,37. San Isidro RHU,4,1.16,0,,,0.0,
+RES-0070,Infra/43. Budac BHS - Tayum,43. Budac BHS - Tayum,5,2.0,0,,,0.0,
+RES-0070,Infra/46. Agsimao BHS -Tineg,46. Agsimao BHS -Tineg,5,2.19,0,,,0.0,
+RES-0070,Infra/49. Dilong BHS- Tubo,49. Dilong BHS- Tubo,3,3.41,0,,,0.0,
+RES-0070,Infra/53. Malapaao BHS - Langiden,53. Malapaao BHS - Langiden,11,4.13,0,,,0.0,
+RES-0070,Infra/54. San Ramon BHS- Manabo,54. San Ramon BHS- Manabo,4,1.95,1,FAC-0063,Manabo Rural Health Unit,0.738,FAC-0063:Manabo Rural Health Unit (0.738)
+RES-0070,Infra/56. Abualan BHS- San Juan,56. Abualan BHS- San Juan,2,1.1,0,,,0.0,
+RES-0070,Infra/57. Pidigan RHU,57. Pidigan RHU,5,3.21,0,,,0.0,
+RES-0070,Infra/58. Dolores SHC- Dolores,58. Dolores SHC- Dolores,2,1.37,0,,,0.0,
+RES-0070,Infra/59. Tiempo BHS,59. Tiempo BHS,3,3.98,1,FAC-0066,"Municipality of Tubo, Tiempo Barangay Health Station",0.801,"FAC-0066:Municipality of Tubo, Tiempo Barangay Health Station (0.801)"
+RES-0073,DOST ASSESSMENT - ILOILO HOSPITALS,DOST ASSESSMENT - ILOILO HOSPITALS,13,8.24,1,FAC-0415,Iloilo Provincial Hospital,0.752,FAC-0415:Iloilo Provincial Hospital (0.752)
+RES-0073,LAND OWNERSHIP - ILOILO HOSPITALS,LAND OWNERSHIP - ILOILO HOSPITALS,6,29.76,1,FAC-0415,Iloilo Provincial Hospital,0.778,FAC-0415:Iloilo Provincial Hospital (0.778)
+RES-0073,LAND OWNERSHIP - ILOILO HOSPITALS/DON VALERIO PALMARES SR MEMORIAL DIST HOSPITAL Land ownership,DON VALERIO PALMARES SR MEMORIAL DIST HOSPITAL Land ownership,2,0.4,1,FAC-0415,Iloilo Provincial Hospital,0.747,FAC-0415:Iloilo Provincial Hospital (0.747)
+RES-0073,LAND OWNERSHIP - ILOILO HOSPITALS/GNDTSDH OWNERSHIP,GNDTSDH OWNERSHIP,2,1.03,1,FAC-0415,Iloilo Provincial Hospital,0.74,FAC-0415:Iloilo Provincial Hospital (0.74)
+RES-0073,LAND OWNERSHIP - ILOILO HOSPITALS/Janiuay District Hospital land ownership,Janiuay District Hospital land ownership,1,0.09,1,FAC-0415,Iloilo Provincial Hospital,0.781,FAC-0415:Iloilo Provincial Hospital (0.781)
+RES-0073,LAND OWNERSHIP - ILOILO HOSPITALS/LAND OWNERSHIP -ILOILO PROVINCIAL HOSPITAL,LAND OWNERSHIP -ILOILO PROVINCIAL HOSPITAL,2,0.4,1,FAC-0415,Iloilo Provincial Hospital,0.98,FAC-0415:Iloilo Provincial Hospital (0.98)
+RES-0073,"LAND OWNERSHIP - ILOILO HOSPITALS/RTMDH, CABATUAN LAND OWNERSHIP","RTMDH, CABATUAN LAND OWNERSHIP",12,3.14,1,FAC-0415,Iloilo Provincial Hospital,0.722,FAC-0415:Iloilo Provincial Hospital (0.722)
+RES-0073,LAND OWNERSHIP - ILOILO HOSPITALS/SDH LAND OWNERSHIP,SDH LAND OWNERSHIP,2,0.23,1,FAC-0415,Iloilo Provincial Hospital,0.739,FAC-0415:Iloilo Provincial Hospital (0.739)
+RES-0073,LAND OWNERSHIP - ILOILO HOSPITALS/SJMCH OWNERSHIP,SJMCH OWNERSHIP,2,0.35,1,FAC-0415,Iloilo Provincial Hospital,0.741,FAC-0415:Iloilo Provincial Hospital (0.741)
+RES-0073,SCHEMATIC PLAN FOR HFEP 2027,SCHEMATIC PLAN FOR HFEP 2027,3,52.09,0,,,0.0,
+RES-0073,SCHEMATIC PLAN FOR HFEP 2027/BALASAN,BALASAN,4,3.46,0,,,0.0,
+RES-0073,SCHEMATIC PLAN FOR HFEP 2027/CABATUAN,CABATUAN,4,7.09,0,,,0.0,
+RES-0073,"SCHEMATIC PLAN FOR HFEP 2027/DRSPSMDH, CALINOG","DRSPSMDH, CALINOG",3,5.07,0,,,0.0,
+RES-0073,"SCHEMATIC PLAN FOR HFEP 2027/DVPSMDH, PASSI CITY","DVPSMDH, PASSI CITY",2,2.34,0,,,0.0,
+RES-0073,"SCHEMATIC PLAN FOR HFEP 2027/GNDTSDH, BAROTAC VIEJO","GNDTSDH, BAROTAC VIEJO",2,1.37,0,,,0.0,
+RES-0073,SCHEMATIC PLAN FOR HFEP 2027/GUIMBAL,GUIMBAL,7,6.27,0,,,0.0,
+RES-0073,SCHEMATIC PLAN FOR HFEP 2027/JANIUAY,JANIUAY,3,4.22,0,,,0.0,
+RES-0073,SCHEMATIC PLAN FOR HFEP 2027/LAMBUNAO,LAMBUNAO,3,3.11,0,,,0.0,
+RES-0073,"SCHEMATIC PLAN FOR HFEP 2027/RDDDH, DUMANGAS","RDDDH, DUMANGAS",3,2.84,0,,,0.0,
+RES-0073,SCHEMATIC PLAN FOR HFEP 2027/SAN JOAQUIN,SAN JOAQUIN,6,6.55,1,FAC-0424,San Joaquin Mother & Child Hospital,0.98,FAC-0424:San Joaquin Mother & Child Hospital (0.98)
+RES-0073,SCHEMATIC PLAN FOR HFEP 2027/SARA,SARA,6,7.6,0,,,0.0,
+RES-0110,Albay/02.5 Super Health Centers New Con/Malinao SHC ME Reqts.,Malinao SHC ME Reqts.,1,0.3,0,,,0.0,
+RES-0110,Albay/02.5 Super Health Centers New Con/Tiwi SHC IN Reqts. - New Con,Tiwi SHC IN Reqts. - New Con,7,10.14,0,,,0.0,
+RES-0110,Albay/03 Rural Health Units Repair／Upgrading／Equipping／MV/Libon,Libon,6,2.86,0,,,0.0,
+RES-0110,Albay/03 Rural Health Units Repair／Upgrading／Equipping／MV/Polangui RHU IN Reqts.,Polangui RHU IN Reqts.,2,0.81,0,,,0.0,
+RES-0110,Albay/03 Rural Health Units Repair／Upgrading／Equipping／MV/Tabaco,Tabaco,3,32.33,0,,,0.0,
+RES-0110,Albay/03.5 Rural Health Unit New Con/Tiwi RHU IN Reqts. - New Con/TIWI RURAL HEALTH UNIT (NEW CON),TIWI RURAL HEALTH UNIT (NEW CON),7,10.14,0,,,0.0,
+RES-0110,Albay/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/CAMALIG BHS (NEW CONSTRUCTION)/PARIAAN BHS  (New Construction),PARIAAN BHS  (New Construction),4,0.6,0,,,0.0,
+RES-0110,Albay/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/MALINAO BHS (NEW CONSTRUCTION),MALINAO BHS (NEW CONSTRUCTION),1,23.49,0,,,0.0,
+RES-0110,Albay/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/MALINAO BHS (NEW CONSTRUCTION)/BURABOD BHS  (New Construction),BURABOD BHS  (New Construction),2,5.15,1,FAC-0352,"Burabod Barangay Health Station, Malinao",0.83,"FAC-0352:Burabod Barangay Health Station, Malinao (0.83)"
+RES-0110,Albay/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/MALINAO BHS (NEW CONSTRUCTION)/ESTANCIA BHS  (New Construction),ESTANCIA BHS  (New Construction),2,2.8,0,,,0.0,
+RES-0110,Albay/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/MALINAO BHS (NEW CONSTRUCTION)/TANAWAN BHS (New Construction),TANAWAN BHS (New Construction),2,3.75,0,,,0.0,
+RES-0110,Albay/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/TABACO BHS (NEW CONSTRUCTION)/Cabagñan BHS (New Construction),Cabagñan BHS (New Construction),3,0.71,0,,,0.0,
+RES-0110,Albay/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/TABACO BHS (NEW CONSTRUCTION)/Tabiguian BHS (palitan daw ito ng Cabagñan BHS),Tabiguian BHS (palitan daw ito ng Cabagñan BHS),1,0.89,0,,,0.0,
+RES-0110,Albay/05 Malinao Treatment and Rehabilitation Center Equipping／MV,05 Malinao Treatment and Rehabilitation Center Equipping／MV,1,6.51,0,,,0.0,
+RES-0110,Albay/05 Malinao Treatment and Rehabilitation Center Equipping／MV/Malinao Treatment and Rehabilitation Center,Malinao Treatment and Rehabilitation Center,1,3.26,0,,,0.0,
+RES-0110,Camarines Norte/01 LGU Hospitals Repair／Upgrading／Equipping／MV/Labo District Hospital IN Reqts.,Labo District Hospital IN Reqts.,1,11.0,1,FAC-0364,Labo District Hospital,0.98,FAC-0364:Labo District Hospital (0.98)
+RES-0110,Camarines Norte/01 LGU Hospitals Repair／Upgrading／Equipping／MV/Labo District Hospital ME Reqts.,Labo District Hospital ME Reqts.,1,11.0,1,FAC-0364,Labo District Hospital,0.98,FAC-0364:Labo District Hospital (0.98)
+RES-0110,Camarines Norte/01 LGU Hospitals Repair／Upgrading／Equipping／MV/Labo District Hospital MV Reqts.,Labo District Hospital MV Reqts.,1,11.0,1,FAC-0364,Labo District Hospital,0.98,FAC-0364:Labo District Hospital (0.98)
+RES-0110,Camarines Norte/02 Rural Health Units Repair／Upgrading／Equipping／MV/Mercedes RHU II IN Reqts.,Mercedes RHU II IN Reqts.,1,9.66,0,,,0.0,
+RES-0110,Camarines Norte/02 Rural Health Units Repair／Upgrading／Equipping／MV/Talisay RHU IN Reqts.,Talisay RHU IN Reqts.,3,0.38,1,FAC-0450,Talisay City Rural Health Unit,0.847,FAC-0450:Talisay City Rural Health Unit (0.847)
+RES-0110,Camarines Norte/02 Rural Health Units Repair／Upgrading／Equipping／MV/Talisay RHU MV Retqs.,Talisay RHU MV Retqs.,19,2.3,1,FAC-0450,Talisay City Rural Health Unit,0.843,FAC-0450:Talisay City Rural Health Unit (0.843)
+RES-0110,Camarines Norte/02.5 Rural Health Unit New Con/Capalonga RHU II,Capalonga RHU II,7,1.69,0,,,0.0,
+RES-0110,Camarines Norte/02.5 Rural Health Unit New Con/San Lorenzo Ruiz RHU I IN Reqts. - New Con,San Lorenzo Ruiz RHU I IN Reqts. - New Con,3,4.79,0,,,0.0,
+RES-0110,Camarines Norte/02.5 Rural Health Unit New Con/Vinzons RHU II,Vinzons RHU II,3,0.38,0,,,0.0,
+RES-0110,Camarines Norte/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/Itomang BHS,Itomang BHS,8,1.27,0,,,0.0,
+RES-0110,Camarines Norte/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/San Isidro BHS,San Isidro BHS,8,1.96,0,,,0.0,
+RES-0110,Camarines Sur/02 Super Health Centers Completion／Equipping／MV/Balatan SHC IN Reqts.,Balatan SHC IN Reqts.,2,27.98,0,,,0.0,
+RES-0110,Camarines Sur/02 Super Health Centers Completion／Equipping／MV/Nabua SHC ME Reqts.,Nabua SHC ME Reqts.,1,7.21,0,,,0.0,
+RES-0110,Camarines Sur/02.5 Super Health Centers New Con/Nabua SHC IN Reqts. - New Con,Nabua SHC IN Reqts. - New Con,3,7.57,0,,,0.0,
+RES-0110,Camarines Sur/02.5 Super Health Centers New Con/San Jose SHC IN Reqts. - New Con,San Jose SHC IN Reqts. - New Con,1,0.56,0,,,0.0,
+RES-0110,Camarines Sur/02.5 Super Health Centers New Con/Siruma SHC IN Reqts. - New Con,Siruma SHC IN Reqts. - New Con,1,1.97,0,,,0.0,
+RES-0110,Camarines Sur/03 Rural Health Units Repair／Upgrading／Equipping／MV/Buhi RHU MV Reqts.,Buhi RHU MV Reqts.,19,17.25,0,,,0.0,
+RES-0110,Camarines Sur/03 Rural Health Units Repair／Upgrading／Equipping／MV/Tinambac RHU II IN Reqts.,Tinambac RHU II IN Reqts.,2,0.3,1,FAC-0371,Tinambac Municipal Hospital,0.751,FAC-0371:Tinambac Municipal Hospital (0.751)
+RES-0110,Camarines Sur/03.5 Rural Health Units New Con/Pili RHU II IN Reqts. - New Con,Pili RHU II IN Reqts. - New Con,1,0.03,0,,,0.0,
+RES-0110,Camarines Sur/03.5 Rural Health Units New Con/Tinambac RHU III IN Reqts. - New Con,Tinambac RHU III IN Reqts. - New Con,1,7.56,1,FAC-0371,Tinambac Municipal Hospital,0.731,FAC-0371:Tinambac Municipal Hospital (0.731)
+RES-0110,"Camarines Sur/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/Bula, Casugad BHS IN Reqts.","Bula, Casugad BHS IN Reqts.",2,4.31,0,,,0.0,
+RES-0110,"Camarines Sur/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/Bula, Itangon BHS IN Reqts.","Bula, Itangon BHS IN Reqts.",1,2.34,0,,,0.0,
+RES-0110,"Camarines Sur/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/Bula, San Isidro BHS IN Reqts.","Bula, San Isidro BHS IN Reqts.",1,2.34,0,,,0.0,
+RES-0110,"Camarines Sur/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/Canaman, San Juan BHS IN Reqts.","Canaman, San Juan BHS IN Reqts.",3,1.41,0,,,0.0,
+RES-0110,"Camarines Sur/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/Lupi, Barrera Sr. BHS IN Reqts. ","Lupi, Barrera Sr. BHS IN Reqts. ",1,0.19,0,,,0.0,
+RES-0110,"Camarines Sur/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/Magarao , Carangcang BHS IN Reqts.","Magarao , Carangcang BHS IN Reqts.",5,2.41,0,,,0.0,
+RES-0110,"Camarines Sur/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/San Fernando, Rizal BHS IN Reqts.","San Fernando, Rizal BHS IN Reqts.",1,1.22,0,,,0.0,
+RES-0110,"Camarines Sur/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/Siruma, Salavacion BHS IN Reqts.","Siruma, Salavacion BHS IN Reqts.",2,0.37,0,,,0.0,
+RES-0110,"Camarines Sur/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/Siruma, Sulpa IN Reqts.","Siruma, Sulpa IN Reqts.",1,1.0,0,,,0.0,
+RES-0110,"Camarines Sur/04 Barangay Health Stations Repair／Upgrading／Equipping／MV/Siruma, Vito BHS IN Reqts.","Siruma, Vito BHS IN Reqts.",1,0.97,0,,,0.0,
+RES-0110,"Camarines Sur/04.5 Barangay Health Stations New Con/Bula, Lubgan BHS IN Reqts. - New Con","Bula, Lubgan BHS IN Reqts. - New Con",2,2.69,0,,,0.0,
+RES-0110,"Camarines Sur/04.5 Barangay Health Stations New Con/Bula, San Roque BHS IN Reqts. - New Con","Bula, San Roque BHS IN Reqts. - New Con",1,0.93,0,,,0.0,
+RES-0110,"Camarines Sur/04.5 Barangay Health Stations New Con/Del Gallego, Palaspas BHS IN Reqts. - New Con","Del Gallego, Palaspas BHS IN Reqts. - New Con",1,1.54,0,,,0.0,
+RES-0110,"Camarines Sur/04.5 Barangay Health Stations New Con/Del Gallego, Peñafrancia BHS IN Reqts. - New Con","Del Gallego, Peñafrancia BHS IN Reqts. - New Con",1,0.55,0,,,0.0,
+RES-0110,"Camarines Sur/04.5 Barangay Health Stations New Con/Goyudan BHS, Bato IN Reqts. - New Con","Goyudan BHS, Bato IN Reqts. - New Con",1,1.4,0,,,0.0,
+RES-0110,"Camarines Sur/04.5 Barangay Health Stations New Con/Naga City, Calauag BHS IN Reqts. - New Con","Naga City, Calauag BHS IN Reqts. - New Con",1,0.91,0,,,0.0,
+RES-0110,"Camarines Sur/04.5 Barangay Health Stations New Con/Naga City, Triangulo BHS IN Reqts. - New Con","Naga City, Triangulo BHS IN Reqts. - New Con",1,2.32,0,,,0.0,
+RES-0110,"Camarines Sur/04.5 Barangay Health Stations New Con/Ocampo, Cabariwan BHS IN Reqts. - New Con","Ocampo, Cabariwan BHS IN Reqts. - New Con",1,0.12,0,,,0.0,
+RES-0110,"Camarines Sur/04.5 Barangay Health Stations New Con/Ocampo, Gatbo BHS - New Con","Ocampo, Gatbo BHS - New Con",1,17.9,0,,,0.0,
+RES-0110,"Camarines Sur/04.5 Barangay Health Stations New Con/Pili, Sagurong BHS IN Reqts. - New Con","Pili, Sagurong BHS IN Reqts. - New Con",4,0.24,0,,,0.0,
+RES-0110,"Camarines Sur/04.5 Barangay Health Stations New Con/Siruma, San Andres BHS IN Reqts. - New Con","Siruma, San Andres BHS IN Reqts. - New Con",1,0.56,0,,,0.0,
+RES-0110,"Camarines Sur/04.5 Barangay Health Stations New Con/Tinambac, Bagacay BHS IN Reqts. - New Con","Tinambac, Bagacay BHS IN Reqts. - New Con",2,12.07,1,FAC-0371,Tinambac Municipal Hospital,0.725,FAC-0371:Tinambac Municipal Hospital (0.725)
+RES-0110,"Camarines Sur/04.5 Barangay Health Stations New Con/Tinambac, Bani BHS IN Reqts. - New Con","Tinambac, Bani BHS IN Reqts. - New Con",1,0.51,1,FAC-0371,Tinambac Municipal Hospital,0.73,FAC-0371:Tinambac Municipal Hospital (0.73)
+RES-0110,"Camarines Sur/04.5 Barangay Health Stations New Con/Tinambac, Caloco BHS IN Reqts. - New Con","Tinambac, Caloco BHS IN Reqts. - New Con",1,5.68,1,FAC-0371,Tinambac Municipal Hospital,0.735,FAC-0371:Tinambac Municipal Hospital (0.735)
+RES-0110,"Camarines Sur/04.5 Barangay Health Stations New Con/Tinambac, Daligan BHS IN Reqts. - New Con","Tinambac, Daligan BHS IN Reqts. - New Con",1,5.72,1,FAC-0371,Tinambac Municipal Hospital,0.731,FAC-0371:Tinambac Municipal Hospital (0.731)
+RES-0110,Catanduanes/01 LGU Hospitals Repair／Upgrading／Equipping／MV/Caramoran Municipal Hospital ME Reqts.,Caramoran Municipal Hospital ME Reqts.,4,1.54,0,,,0.0,
+RES-0110,Catanduanes/01 LGU Hospitals Repair／Upgrading／Equipping／MV/Eastern Bicol Medical Center IN Reqts.,Eastern Bicol Medical Center IN Reqts.,2,1.54,0,,,0.0,
+RES-0110,Catanduanes/01 LGU Hospitals Repair／Upgrading／Equipping／MV/Pandan District Hospital ME Reqts.,Pandan District Hospital ME Reqts.,7,11.54,0,,,0.0,
+RES-0110,Catanduanes/01 LGU Hospitals Repair／Upgrading／Equipping／MV/Pandan District Hospital MV Reqts.,Pandan District Hospital MV Reqts.,1,2.07,0,,,0.0,
+RES-0110,Catanduanes/02 Super Health Centers Repair／Upgrading／Equipping／MV/Caramoran SHC ME Reqts./Caramoran SHC,Caramoran SHC,1,0.08,0,,,0.0,
+RES-0110,Catanduanes/02 Super Health Centers Repair／Upgrading／Equipping／MV/Panganiban SHC,Panganiban SHC,1,20.72,0,,,0.0,
+RES-0110,Catanduanes/02.5 Super Health Centers New Con/Pandan SHC IN Reqts. - New Con,Pandan SHC IN Reqts. - New Con,2,1.82,0,,,0.0,
+RES-0110,Catanduanes/03 Rural Health Units Repair／Upgrading／Equipping／MV/Baras RHU IN Reqts.,Baras RHU IN Reqts.,1,0.18,0,,,0.0,
+RES-0110,Catanduanes/03 Rural Health Units Repair／Upgrading／Equipping／MV/RHU Viga,RHU Viga,2,0.15,0,,,0.0,
+RES-0110,Catanduanes/04 Barangay Health Stations Repair／Upgrading／Equipping／MV,04 Barangay Health Stations Repair／Upgrading／Equipping／MV,1,0.32,0,,,0.0,
+RES-0110,"Catanduanes/04.5 Barangay Health Stations New Con/Panganiban, Babaguan BHS IN Reqts. - New Con","Panganiban, Babaguan BHS IN Reqts. - New Con",1,0.66,0,,,0.0,
+RES-0110,"Catanduanes/04.5 Barangay Health Stations New Con/Panganiban, Panay BHS IN Reqts. - New Con","Panganiban, Panay BHS IN Reqts. - New Con",1,0.66,0,,,0.0,
+RES-0110,"Catanduanes/04.5 Barangay Health Stations New Con/Panganiban, Tibo BHS IN Reqts. - New Con","Panganiban, Tibo BHS IN Reqts. - New Con",1,0.66,0,,,0.0,
+RES-0110,"Catanduanes/04.5 Barangay Health Stations New Con/Viga, Burgos BHS IN Reqts. - New Con","Viga, Burgos BHS IN Reqts. - New Con",5,0.64,0,,,0.0,
+RES-0110,"Catanduanes/04.5 Barangay Health Stations New Con/Virac, Calatagan Tibang BHS IN Reqts. New Con","Virac, Calatagan Tibang BHS IN Reqts. New Con",9,15.53,0,,,0.0,
+RES-0110,Catanduanes/PDO Catanduanes Proposed Office Bldg,PDO Catanduanes Proposed Office Bldg,2,1.42,0,,,0.0,
+RES-0110,Masbate/01 LGU Hospitals/Cawayan Municipal Hospital ME Reqts,Cawayan Municipal Hospital ME Reqts,2,0.37,1,FAC-0374,Cawayan Municipal Hospital,0.98,FAC-0374:Cawayan Municipal Hospital (0.98)
+RES-0110,Masbate/02 Super Health Centers/Aroroy SHC ME Reqts./Aroroy SHC ME Reqts 2,Aroroy SHC ME Reqts 2,4,0.86,0,,,0.0,
+RES-0110,Masbate/02 Super Health Centers/Aroroy SHC ME Reqts./Aroroy SHC ME Reqts.,Aroroy SHC ME Reqts.,4,3.38,0,,,0.0,
+RES-0110,Masbate/02 Super Health Centers/Baleno SHC IN Reqts.,Baleno SHC IN Reqts.,2,0.44,0,,,0.0,
+RES-0110,Masbate/02 Super Health Centers/Balud Super Health Center,Balud Super Health Center,3,1.76,0,,,0.0,
+RES-0110,Masbate/02 Super Health Centers/Claveria SHC IN Reqts. - New Con,Claveria SHC IN Reqts. - New Con,4,3.67,0,,,0.0,
+RES-0110,Masbate/02 Super Health Centers/Masbate City SHC ME Reqts./Masbate City SHC,Masbate City SHC,1,0.49,0,,,0.0,
+RES-0110,Masbate/03 Rural Health Units/Aroroy RHU II IN Reqts. - New Con,Aroroy RHU II IN Reqts. - New Con,4,0.77,0,,,0.0,
+RES-0110,Masbate/03 Rural Health Units/CAWAYAN RHU,CAWAYAN RHU,1,0.13,1,FAC-0374,Cawayan Municipal Hospital,0.849,FAC-0374:Cawayan Municipal Hospital (0.849)
+RES-0110,Masbate/03 Rural Health Units/Cataingan RHU MV Reqts,Cataingan RHU MV Reqts,1,0.2,0,,,0.0,
+RES-0110,Masbate/03 Rural Health Units/Claveria RHU IN Reqts,Claveria RHU IN Reqts,1,75.1,0,,,0.0,
+RES-0110,Masbate/03 Rural Health Units/Claveria RHU IN Reqts/MHO Claveria,MHO Claveria,28,73.97,0,,,0.0,
+RES-0110,Masbate/03 Rural Health Units/Dimasalang RHU II IN Reqts.,Dimasalang RHU II IN Reqts.,1,0.09,0,,,0.0,
+RES-0110,Masbate/03 Rural Health Units/Dimasalang RHU II ME Reqts.,Dimasalang RHU II ME Reqts.,1,0.23,0,,,0.0,
+RES-0110,Masbate/03 Rural Health Units/Mandaon RHU II IN Reqts. - New Con,Mandaon RHU II IN Reqts. - New Con,1,1.92,0,,,0.0,
+RES-0110,Masbate/03 Rural Health Units/Mobo RHU IN Reqts.,Mobo RHU IN Reqts.,2,0.58,0,,,0.0,
+RES-0110,Masbate/03 Rural Health Units/Placer RHU ME Reqts,Placer RHU ME Reqts,1,0.55,0,,,0.0,
+RES-0110,Masbate/03 Rural Health Units/San Pascual RHU IN Reqts.,San Pascual RHU IN Reqts.,12,21.14,1,FAC-0375,San Pascual Birthing Facility II,0.624,FAC-0375:San Pascual Birthing Facility II (0.624)
+RES-0110,Masbate/03 Rural Health Units/San Pascual RHU IN Reqts./San Pascual,San Pascual,14,10.78,1,FAC-0375,San Pascual Birthing Facility II,0.98,FAC-0375:San Pascual Birthing Facility II (0.98)
+RES-0110,Masbate/03 Rural Health Units/San Pascual RHU MV Reqts,San Pascual RHU MV Reqts,1,0.28,1,FAC-0375,San Pascual Birthing Facility II,0.61,FAC-0375:San Pascual Birthing Facility II (0.61)
+RES-0110,Masbate/04 Barangay Health Stations,04 Barangay Health Stations,1,55.05,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Aroroy, Ambolong BHS IN Reqts. - New Con","Aroroy, Ambolong BHS IN Reqts. - New Con",7,1.6,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Aroroy, Cabas-an BHS IN Reqts. - New Con","Aroroy, Cabas-an BHS IN Reqts. - New Con",5,1.13,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Aroroy, Conception BHS IN Reqts. - New Con","Aroroy, Conception BHS IN Reqts. - New Con",2,0.43,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Aroroy, Luy-a BHS IN Reqts. - New Con","Aroroy, Luy-a BHS IN Reqts. - New Con",4,0.68,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Aroroy, Nabungsuran BHS IN Reqts. - New Con","Aroroy, Nabungsuran BHS IN Reqts. - New Con",2,0.44,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Aroroy, San Agustin BHS IN Reqts. - New Con","Aroroy, San Agustin BHS IN Reqts. - New Con",6,1.27,0,,,0.0,
+RES-0110,Masbate/04 Barangay Health Stations/Aroroy. Maripoza BHS IN Reqts. - New Con,Aroroy. Maripoza BHS IN Reqts. - New Con,6,1.23,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Baleno, Gangao BHS IN Reqts. - New Con","Baleno, Gangao BHS IN Reqts. - New Con",1,17.73,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Batuan, Cañares BHS IN Reqts. - New Con","Batuan, Cañares BHS IN Reqts. - New Con",1,0.88,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Batuan, Costa-Rica BHS IN Reqts. - New Con","Batuan, Costa-Rica BHS IN Reqts. - New Con",1,0.86,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Batuan, Danao BHS IN Reqts. - New Con","Batuan, Danao BHS IN Reqts. - New Con",1,1.73,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Batuan, Gibraltar BHS IN Reqts. - New Con","Batuan, Gibraltar BHS IN Reqts. - New Con",1,0.93,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Batuan, Matabo BHS IN Reqts. - New Con","Batuan, Matabo BHS IN Reqts. - New Con",1,0.88,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Batuan, Poblacion BHS IN Reqts. - New Con","Batuan, Poblacion BHS IN Reqts. - New Con",1,0.87,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Claveria, Buyo BHS IN Reqts - New Con","Claveria, Buyo BHS IN Reqts - New Con",15,2.84,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Claveria, Peñafrancia BHS IN Reqts - New Con","Claveria, Peñafrancia BHS IN Reqts - New Con",6,0.76,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Claveria, Quezon BHS IN Reqts - New Con ","Claveria, Quezon BHS IN Reqts - New Con ",8,1.14,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Claveria, San Isidro BHS IN Reqts - New Con","Claveria, San Isidro BHS IN Reqts - New Con",2,0.76,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Claveria, San Vicente BHS IN Reqts","Claveria, San Vicente BHS IN Reqts",3,0.93,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Claveria, Taguilid BHS IN Reqts","Claveria, Taguilid BHS IN Reqts",7,0.97,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Esperanza, Guadalupe BHS IN Reqts.","Esperanza, Guadalupe BHS IN Reqts.",2,2.26,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Esperanza, Sorosimbajan BHS IN Reqts.","Esperanza, Sorosimbajan BHS IN Reqts.",2,2.89,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Esperanza, Villa BHS IN Retqs.","Esperanza, Villa BHS IN Retqs.",2,2.62,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Mandaon, Centro BHS IN Reqts.","Mandaon, Centro BHS IN Reqts.",1,3.69,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Mandaon, Looc BHS IN Reqts.","Mandaon, Looc BHS IN Reqts.",1,1.99,0,,,0.0,
+RES-0110,"Masbate/04 Barangay Health Stations/Mandaon, San Pablo BHS IN Reqts.","Mandaon, San Pablo BHS IN Reqts.",1,1.77,0,,,0.0,
+RES-0110,Masbate/04 Barangay Health Stations/San Pascual,San Pascual,1,0.28,1,FAC-0375,San Pascual Birthing Facility II,0.98,FAC-0375:San Pascual Birthing Facility II (0.98)
+RES-0110,Other Facilities/Camarines Norte Office Completion,Camarines Norte Office Completion,8,2.09,0,,,0.0,
+RES-0110,Other Facilities/Catanduanes Prov'l Med Warehouse with Cold Chain Faci and Office,Catanduanes Prov'l Med Warehouse with Cold Chain Faci and Office,1,2.43,0,,,0.0,
+RES-0110,Other Facilities/DOH Bicol CHD Infra and Fogging Machine,DOH Bicol CHD Infra and Fogging Machine,2,0.6,0,,,0.0,
+RES-0110,Other Facilities/Masbate Prov'l Medicine Warehouse with Cold Chain Faci and Office,Masbate Prov'l Medicine Warehouse with Cold Chain Faci and Office,1,0.15,1,FAC-0362,DOH Provincial Medicine Warehouse,0.769,FAC-0362:DOH Provincial Medicine Warehouse (0.769)
+RES-0110,Other Facilities/Sorsogon Prov'l Medicine Warehouse with Cold Chain Faci and Office,Sorsogon Prov'l Medicine Warehouse with Cold Chain Faci and Office,3,6.84,1,FAC-0362,DOH Provincial Medicine Warehouse,0.77,FAC-0362:DOH Provincial Medicine Warehouse (0.77)
+RES-0110,Sorsogon/01 LGU Hospitals/Bulan Medicare Hospital,Bulan Medicare Hospital,1,0.07,1,FAC-0376,Bulan Medicare Hospital,0.98,FAC-0376:Bulan Medicare Hospital (0.98)
+RES-0110,Sorsogon/02 Super Health Centers/Barcelona SHC IN Reqts. - New Con,Barcelona SHC IN Reqts. - New Con,2,0.77,0,,,0.0,
+RES-0110,Sorsogon/02 Super Health Centers/Bulusan SHC IN Reqts - New Con,Bulusan SHC IN Reqts - New Con,3,3.48,0,,,0.0,
+RES-0110,Sorsogon/02 Super Health Centers/Magallanes SHC IN Reqts. -New Con,Magallanes SHC IN Reqts. -New Con,3,4.8,0,,,0.0,
+RES-0110,Sorsogon/02 Super Health Centers/Sor City Bacon Dist. SHC IN Reqts. - New Con,Sor City Bacon Dist. SHC IN Reqts. - New Con,4,1.78,0,,,0.0,
+RES-0110,Sorsogon/03 Rural Health Units/Castilla RHU IN Reqts.,Castilla RHU IN Reqts.,2,1.05,0,,,0.0,
+RES-0110,Sorsogon/03 Rural Health Units/Gubat RHU II IN Reqts.,Gubat RHU II IN Reqts.,4,2.3,1,FAC-0377,Gubat District Hospital,0.736,FAC-0377:Gubat District Hospital (0.736)
+RES-0110,Sorsogon/03 Rural Health Units/Irosin RHU IN Reqts.,Irosin RHU IN Reqts.,4,1.06,0,,,0.0,
+RES-0110,Sorsogon/03 Rural Health Units/Prieto Diaz RHU II IN Reqts - New Con,Prieto Diaz RHU II IN Reqts - New Con,4,1.77,0,,,0.0,
+RES-0110,Sorsogon/03 Rural Health Units/Prieto Diaz RHU ME Reqts.,Prieto Diaz RHU ME Reqts.,1,0.89,0,,,0.0,
+RES-0110,Sorsogon/03 Rural Health Units/Prieto Diaz RHU MV Reqts.,Prieto Diaz RHU MV Reqts.,1,1.27,0,,,0.0,
+RES-0110,Sorsogon/04 Barangay Health Stations/Matnog BHS IN Reqts.,Matnog BHS IN Reqts.,2,0.78,0,,,0.0,
+RES-0110,Sorsogon/04 Barangay Health Stations/Sibago BHS IN Reqts. - New Con,Sibago BHS IN Reqts. - New Con,3,1.46,0,,,0.0,
+RES-0110,Sorsogon/04 Barangay Health Stations/Sta. Cruz BHS IN Reqts. - New Con,Sta. Cruz BHS IN Reqts. - New Con,3,1.19,0,,,0.0,
+RES-0110,Sorsogon/Other NGAs/BFP Pilar,BFP Pilar,1,3.8,0,,,0.0,
+RES-0131,Ambulance/Kalinga District Hospital- Ambulance,Kalinga District Hospital- Ambulance,5,6.96,1,FAC-0085,Kalinga Provincial Hospital,0.915,FAC-0085:Kalinga Provincial Hospital (0.915)
+RES-0131,Ambulance/Pinukpuk DH- Ambulance,Pinukpuk DH- Ambulance,2,4.43,1,FAC-0088,Pinukpuk District Hospital,0.872,FAC-0088:Pinukpuk District Hospital (0.872)
+RES-0131,Ambulance/Tanudan MH- Ambulance,Tanudan MH- Ambulance,5,2.33,0,,,0.0,
+RES-0131,Ambulance/Western Kalinga District Hospital- Ambulance,Western Kalinga District Hospital- Ambulance,5,8.37,2,FAC-0102,Western Kalinga District Hospital,0.98,FAC-0102:Western Kalinga District Hospital (0.98) | FAC-0085:Kalinga Provincial Hospital (0.832)
+RES-0131,Equipment/***Removed/Balbalan RHU- Equipment,Balbalan RHU- Equipment,4,1.58,0,,,0.0,
+RES-0131,Equipment/***Removed/Juan M. Duyan MH- Equipment,Juan M. Duyan MH- Equipment,1,1.0,0,,,0.0,
+RES-0131,Equipment/***Removed/Kalinga Gabriela Mija Kim MC- Equipment,Kalinga Gabriela Mija Kim MC- Equipment,5,14.61,1,FAC-0085,Kalinga Provincial Hospital,0.714,FAC-0085:Kalinga Provincial Hospital (0.714)
+RES-0131,Equipment/***Removed/Lubuagan RHU- Equipment,Lubuagan RHU- Equipment,7,2.4,0,,,0.0,
+RES-0131,Equipment/***Removed/Pasil RHU- Equipment,Pasil RHU- Equipment,5,7.22,0,,,0.0,
+RES-0131,Equipment/***Removed/ambulance,ambulance,1,18.01,0,,,0.0,
+RES-0131,Equipment/Kalinga Provincial Hospital,Kalinga Provincial Hospital,6,45.42,1,FAC-0085,Kalinga Provincial Hospital,0.98,FAC-0085:Kalinga Provincial Hospital (0.98)
+RES-0131,Equipment/Pinukpuk DH- Equipment,Pinukpuk DH- Equipment,2,41.19,1,FAC-0088,Pinukpuk District Hospital,0.876,FAC-0088:Pinukpuk District Hospital (0.876)
+RES-0131,Equipment/Pinukpuk RHU I,Pinukpuk RHU I,2,41.62,1,FAC-0088,Pinukpuk District Hospital,0.85,FAC-0088:Pinukpuk District Hospital (0.85)
+RES-0131,Equipment/Pinukpuk RHU II,Pinukpuk RHU II,1,40.98,1,FAC-0088,Pinukpuk District Hospital,0.779,FAC-0088:Pinukpuk District Hospital (0.779)
+RES-0131,Equipment/Rizal RHU- Equipment,Rizal RHU- Equipment,6,1.38,0,,,0.0,
+RES-0131,Equipment/Tabuk CHO Main-Equipment,Tabuk CHO Main-Equipment,4,42.03,0,,,0.0,
+RES-0131,Equipment/Tabuk RHU I-Equipment,Tabuk RHU I-Equipment,4,41.98,0,,,0.0,
+RES-0131,Equipment/Tabuk RHU II- Equipment,Tabuk RHU II- Equipment,6,43.25,0,,,0.0,
+RES-0131,Equipment/Tabuk RHU III-Equipment,Tabuk RHU III-Equipment,5,42.12,0,,,0.0,
+RES-0131,Equipment/Tabuk RHU IV- Equipment,Tabuk RHU IV- Equipment,4,42.14,0,,,0.0,
+RES-0131,Equipment/Tanudan MH- Equipment,Tanudan MH- Equipment,7,4.59,0,,,0.0,
+RES-0131,Equipment/Tanudan RHU- Equipment,Tanudan RHU- Equipment,6,52.75,0,,,0.0,
+RES-0131,Equipment/Tinglayan RHU- Equipment,Tinglayan RHU- Equipment,5,42.66,0,,,0.0,
+RES-0131,Infra/Aciga BHS,Aciga BHS,3,1.21,0,,,0.0,
+RES-0131,Infra/Asibanglan BHS,Asibanglan BHS,3,1.09,0,,,0.0,
+RES-0131,Infra/Balbalasang BHS,Balbalasang BHS,3,2.35,0,,,0.0,
+RES-0131,Infra/Batong Buhay BHS,Batong Buhay BHS,1,0.61,0,,,0.0,
+RES-0131,Infra/Buaya BHS,Buaya BHS,1,0.61,0,,,0.0,
+RES-0131,Infra/Bulbul BHS,Bulbul BHS,3,1.31,0,,,0.0,
+RES-0131,Infra/Kalinga DH,Kalinga DH,7,3.2,1,FAC-0085,Kalinga Provincial Hospital,0.824,FAC-0085:Kalinga Provincial Hospital (0.824)
+RES-0131,Infra/Kalinga PH,Kalinga PH,4,4.52,1,FAC-0085,Kalinga Provincial Hospital,0.879,FAC-0085:Kalinga Provincial Hospital (0.879)
+RES-0131,Infra/Liwan East BHS,Liwan East BHS,3,1.33,0,,,0.0,
+RES-0131,Infra/Lubuagan RHU,Lubuagan RHU,5,11.78,0,,,0.0,
+RES-0131,Infra/Mabilong BHS,Mabilong BHS,1,0.61,0,,,0.0,
+RES-0131,Infra/Mangali Centro BHS,Mangali Centro BHS,8,35.34,0,,,0.0,
+RES-0131,Infra/Pakawit BHS,Pakawit BHS,2,0.93,0,,,0.0,
+RES-0131,Infra/Pasil Bagong Pilipinas HC,Pasil Bagong Pilipinas HC,5,49.07,0,,,0.0,
+RES-0131,Infra/Pinukpuk DH,Pinukpuk DH,1,0.61,1,FAC-0088,Pinukpuk District Hospital,0.884,FAC-0088:Pinukpuk District Hospital (0.884)
+RES-0131,Infra/Pinukpuk RHU I,Pinukpuk RHU I,2,1.25,1,FAC-0088,Pinukpuk District Hospital,0.85,FAC-0088:Pinukpuk District Hospital (0.85)
+RES-0131,Infra/Rizal RHU,Rizal RHU,5,2.23,0,,,0.0,
+RES-0131,Infra/Tabuk II Bagong Pilipinas HC,Tabuk II Bagong Pilipinas HC,4,4.28,0,,,0.0,
+RES-0131,Infra/Tabuk RHU III,Tabuk RHU III,4,2.59,0,,,0.0,
+RES-0131,Infra/Tanudan RHU,Tanudan RHU,5,22.31,0,,,0.0,
+RES-0131,Infra/Tulgao West,Tulgao West,4,3.37,0,,,0.0,
+RES-0131,Infra/Western Kalinga DH,Western Kalinga DH,7,10.25,2,FAC-0102,Western Kalinga District Hospital,0.871,FAC-0102:Western Kalinga District Hospital (0.871) | FAC-0085:Kalinga Provincial Hospital (0.79)
+RES-0135,Ambulance,Ambulance,1,0.1,0,,,0.0,
+RES-0135,Equipment,Equipment,8,132.34,0,,,0.0,
+RES-0135,Equipment/Hingyon RHU,Hingyon RHU,6,41.96,1,FAC-0079,Hingyon Rural Health Unit,0.956,FAC-0079:Hingyon Rural Health Unit (0.956)
+RES-0135,Equipment/Mayoyao RHU,Mayoyao RHU,6,41.99,1,FAC-0082,Mayoyao Rural Health Unit,0.956,FAC-0082:Mayoyao Rural Health Unit (0.956)
+RES-0135,Equipment/Tinoc DH,Tinoc DH,4,41.36,1,FAC-0083,Tinoc District Hospital,0.877,FAC-0083:Tinoc District Hospital (0.877)
+RES-0135,Infra/1. BURNAY BHS,1. BURNAY BHS,5,3.17,0,,,0.0,
+RES-0135,Infra/10. LANGAYAN BHS,10. LANGAYAN BHS,3,1.33,0,,,0.0,
+RES-0135,Infra/11. BANAUE SHC,11. BANAUE SHC,2,0.82,0,,,0.0,
+RES-0135,Infra/12. LAMUT SHC,12. LAMUT SHC,4,17.1,0,,,0.0,
+RES-0135,Infra/13. ALFONSO LISTA SHC,13. ALFONSO LISTA SHC,3,5.82,0,,,0.0,
+RES-0135,Infra/14. BANGTINON BHS,14. BANGTINON BHS,5,29.06,0,,,0.0,
+RES-0135,Infra/15. HUMALOPHOP BHS,15. HUMALOPHOP BHS,2,0.99,0,,,0.0,
+RES-0135,Infra/15. TINOC DISTRICT HOSPITAL,15. TINOC DISTRICT HOSPITAL,2,6.24,1,FAC-0083,Tinoc District Hospital,0.98,FAC-0083:Tinoc District Hospital (0.98)
+RES-0135,Infra/17. MAYOYAO DISTRICT HOSPITAL,17. MAYOYAO DISTRICT HOSPITAL,2,2.11,1,FAC-0082,Mayoyao Rural Health Unit,0.754,FAC-0082:Mayoyao Rural Health Unit (0.754)
+RES-0135,Infra/18. AGUINALDO PEOPLE'S HOSPITAL,18. AGUINALDO PEOPLE'S HOSPITAL,3,4.28,0,,,0.0,
+RES-0135,Infra/19. KIANGAN RHU,19. KIANGAN RHU,5,1.28,0,,,0.0,
+RES-0135,Infra/2. BAGUINGE BHS,2. BAGUINGE BHS,3,1.26,0,,,0.0,
+RES-0135,Infra/20. HINGYON RHU,20. HINGYON RHU,2,0.93,1,FAC-0079,Hingyon Rural Health Unit,0.876,FAC-0079:Hingyon Rural Health Unit (0.876)
+RES-0135,Infra/21. ASIPULO RHU,21. ASIPULO RHU,3,1.14,0,,,0.0,
+RES-0135,Infra/22. MAYOYAO MHO,22. MAYOYAO MHO,5,2.18,1,FAC-0082,Mayoyao Rural Health Unit,0.796,FAC-0082:Mayoyao Rural Health Unit (0.796)
+RES-0135,Infra/23. AGUINALDO RHU,23. AGUINALDO RHU,2,1.18,0,,,0.0,
+RES-0135,Infra/24. TINOC RHU,24. TINOC RHU,4,2.68,1,FAC-0083,Tinoc District Hospital,0.771,FAC-0083:Tinoc District Hospital (0.771)
+RES-0135,"Infra/25. AP-APID BHS, TINOC","25. AP-APID BHS, TINOC",1,1.59,1,FAC-0083,Tinoc District Hospital,0.711,FAC-0083:Tinoc District Hospital (0.711)
+RES-0135,"Infra/26. PANOPDOPAN DH, LAMUT","26. PANOPDOPAN DH, LAMUT",13,11.5,0,,,0.0,
+RES-0135,Infra/27. Hungduan MHO,27. Hungduan MHO,4,3.55,0,,,0.0,
+RES-0135,Infra/28. MAYOYAO BPHC,28. MAYOYAO BPHC,11,15.04,1,FAC-0082,Mayoyao Rural Health Unit,0.733,FAC-0082:Mayoyao Rural Health Unit (0.733)
+RES-0135,Infra/3. CAWAYAN BHS,3. CAWAYAN BHS,4,2.63,0,,,0.0,
+RES-0135,Infra/4. BOKIAWAN BHS,4. BOKIAWAN BHS,3,1.8,0,,,0.0,
+RES-0135,Infra/5. MONGGAYANG BHS,5. MONGGAYANG BHS,4,1.58,0,,,0.0,
+RES-0135,Infra/6. STA MARIA BHS,6. STA MARIA BHS,4,2.13,0,,,0.0,
+RES-0135,Infra/7. GOHANG BHS,7. GOHANG BHS,3,1.35,0,,,0.0,
+RES-0135,Infra/8. INWALOY BHS,8. INWALOY BHS,4,1.49,0,,,0.0,
+RES-0135,Infra/9. ANAO BHS,9. ANAO BHS,3,1.8,0,,,0.0,
+RES-0141,CCMC (South),CCMC (South),8,26.57,0,,,0.0,
+RES-0141,CCNMC,CCNMC,6,5.66,0,,,0.0,
+RES-0141,LGU,LGU,5,27.33,0,,,0.0,
+RES-0141,LGU/LGU OF CALOOCAN - ME.3 Proof of Land Ownership,LGU OF CALOOCAN - ME.3 Proof of Land Ownership,21,24.47,0,,,0.0,
+RES-0155,Ambulance/PDOHO APAYAO,PDOHO APAYAO,1,1.07,0,,,0.0,
+RES-0155,Ambulance/santa marcela,santa marcela,4,4.87,0,,,0.0,
+RES-0155,Equipment/***Removed/Sta. Marcela RHU,Sta. Marcela RHU,4,2.08,0,,,0.0,
+RES-0155,Equipment/Conner RHU,Conner RHU,5,43.91,2,FAC-0069,Conner RHU,0.98,FAC-0069:Conner RHU (0.98) | FAC-0070:Conner Rural Health Unit (0.953)
+RES-0155,Infra/1. Namaltugan,1. Namaltugan,4,15.96,0,,,0.0,
+RES-0155,Infra/12. Kabugao SHC,12. Kabugao SHC,2,26.75,0,,,0.0,
+RES-0155,Infra/13. Marcela,13. Marcela,5,1.97,0,,,0.0,
+RES-0155,Infra/14. Apayao District Hospital,14. Apayao District Hospital,4,17.54,0,,,0.0,
+RES-0155,Infra/14. Apayao District Hospital/Apayao,Apayao,4,0.7,0,,,0.0,
+RES-0155,Infra/15. Apayao PH,15. Apayao PH,1,0.61,0,,,0.0,
+RES-0155,Infra/17. Conner RHU,17. Conner RHU,4,34.77,2,FAC-0069,Conner RHU,0.98,FAC-0069:Conner RHU (0.98) | FAC-0070:Conner Rural Health Unit (0.874)
+RES-0155,Infra/18. Pudtol SHC,18. Pudtol SHC,8,1.84,0,,,0.0,
+RES-0155,Infra/19. Banban BHS,19. Banban BHS,3,1.36,0,,,0.0,
+RES-0155,Infra/2. Tanglagan,2. Tanglagan,4,1.93,0,,,0.0,
+RES-0155,Infra/20. Buluan BHS,20. Buluan BHS,3,1.45,0,,,0.0,
+RES-0155,Infra/21. Sacpil BHS,21. Sacpil BHS,3,14.77,0,,,0.0,
+RES-0155,Infra/22. San Carlos,22. San Carlos,5,1.89,0,,,0.0,
+RES-0155,Infra/23. Sta. Marcela SHC,23. Sta. Marcela SHC,6,1.83,0,,,0.0,
+RES-0155,Infra/24. Luna SHC,24. Luna SHC,4,3.73,0,,,0.0,
+RES-0155,Infra/25. Malama BHS,25. Malama BHS,3,1.94,0,,,0.0,
+RES-0155,Infra/26. Bulu BHS,26. Bulu BHS,3,1.66,0,,,0.0,
+RES-0155,Infra/27. Luttucan BHS,27. Luttucan BHS,1,0.49,0,,,0.0,
+RES-0155,Infra/3. Atok BHS,3. Atok BHS,7,1.9,0,,,0.0,
+RES-0155,Infra/30. San Isidro BHS,30. San Isidro BHS,1,1.15,0,,,0.0,
+RES-0155,Infra/32. San Antonio BHS,32. San Antonio BHS,6,3.14,0,,,0.0,
+RES-0155,Infra/4. Tamalunog,4. Tamalunog,2,9.56,0,,,0.0,
+RES-0155,Infra/6. Cagadungan BHS,6. Cagadungan BHS,4,9.16,0,,,0.0,
+RES-0155,Infra/7. Aga BHS,7. Aga BHS,5,2.25,0,,,0.0,
+RES-0155,Infra/8. Malekkeg,8. Malekkeg,5,1.45,0,,,0.0,
+RES-0155,Infra/9. PDOHO building -Apayao,9. PDOHO building -Apayao,7,49.5,0,,,0.0,
+RES-0165,LGU OF VALENZUELA - ME.3 Proof of Land Ownership,LGU OF VALENZUELA - ME.3 Proof of Land Ownership,8,10.18,0,,,0.0,
+RES-0179,GEOHAZARD MAPS,GEOHAZARD MAPS,6,5.04,0,,,0.0,
+RES-0179,LAND OWNERSHIP,LAND OWNERSHIP,9,24.66,0,,,0.0,
+RES-0179,SITE DEVELOPMENT PLANS,SITE DEVELOPMENT PLANS,5,3.01,0,,,0.0,

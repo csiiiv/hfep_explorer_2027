@@ -1,0 +1,514 @@
+category,subcategory,region,province,facility,infra,equipment,motor_vehicle,total,source
+1. Primary Care Facilities,1.a Construction of New Barangay Health Stations (BHS),CAR,Apayao,Municipality of Conner Malama Brgy. Health Station (BHS) with Birthing Home,5000000.0,0.0,0.0,5000000,HREP-GAB
+1. Primary Care Facilities,1.a Construction of New Barangay Health Stations (BHS),CAR,Apayao,"Sta. Filomena Brgy. Health Center (BHS), Municipality of Calanasan",5000000.0,0.0,0.0,5000000,HREP-GAB
+1. Primary Care Facilities,1.a Construction of New Barangay Health Stations (BHS),CAR,Sagada,"Municipality of Sagada, Nacangan Barangay Health Station",2700000.0,0.0,0.0,2700000,HREP-GAB
+1. Primary Care Facilities,1.a Construction of New Barangay Health Stations (BHS),CAR,Sagada,"Municipality of Sagada, Taccong Barangay Health Station",2700000.0,0.0,0.0,2700000,HREP-GAB
+1. Primary Care Facilities,1.a Construction of New Barangay Health Stations (BHS),Region II,Isabela,"Municipality of Tumauini, Antagan 1st Barangay Health Station",4000000.0,0.0,0.0,4000000,HREP-GAB
+1. Primary Care Facilities,1.a Construction of New Barangay Health Stations (BHS),Region X,Bukidnon,Damilag Barangay Health Station,10000000.0,0.0,0.0,10000000,HREP-GAB
+1. Primary Care Facilities,1.a Construction of New Barangay Health Stations (BHS),Region X,Misamis Oriental,"Poblacion Barangay Health Center, Sugbongcogon",3000000.0,240000.0,0.0,3240000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Abra,"Municipality of Malibcong, Buanao Barangay Health Station",0.0,135000.0,0.0,135000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Abra,"Municipality of Malibcong, Pacgued Barangay Health Station",0.0,135000.0,0.0,135000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Abra,"Municipality of Tubo, Tiempo Barangay Health Station",2000000.0,0.0,0.0,2000000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Benguet,"Municipality of Bakun, Poblacion Barangay Health Station",3500000.0,0.0,0.0,3500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Mountain Province,"Municipality of Barlig, Fiangtin Barangay Health Station",0.0,115000.0,0.0,115000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Mountain Province,"Municipality of Bauko, Letang Satellite Barangay Health Station",0.0,135000.0,0.0,135000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Mountain Province,"Municipality of Bontoc, Alab Oriente Barangay Health Station",0.0,230000.0,0.0,230000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Mountain Province,"Municipality of Bontoc, Bayyo Barangay Health Station",0.0,135000.0,0.0,135000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Mountain Province,"Municipality of Bontoc, Gonogon Barangay Health Station",0.0,135000.0,0.0,135000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Mountain Province,"Municipality of Bontoc, Poblacion Bontoc Barangay Health Station",0.0,135000.0,0.0,135000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Mountain Province,"Municipality of Leto, Mina Barangay Health Station",0.0,115000.0,0.0,115000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Mountain Province,"Municipality of Natonin, Batnong Barangay Health Station",0.0,160000.0,0.0,160000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Mountain Province,"Municipality of Natonin, Tappo Barangay Health Station",0.0,115000.0,0.0,115000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Mountain Province,"Municipality of Natonin, Tonglayan Barangay Health Station",0.0,115000.0,0.0,115000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Mountain Province,"Municipality of Paracelis, Butigue Barangay Health Station",0.0,115000.0,0.0,115000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Mountain Province,"Municipality of Sadanga, Bekigan Barangay Health Station",0.0,135000.0,0.0,135000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Mountain Province,"Municipality of Sadanga, Betwagan Barangay Health Station",0.0,125000.0,0.0,125000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Mountain Province,"Municipality of Sadanga, Samoki Barangay Health Station",0.0,135000.0,0.0,135000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,CAR,Mountain Province,Saclit Barangay Health Station,0.0,115000.0,0.0,115000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Andal Alinio Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Bakal I Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Bakal II Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Bakal III Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Baluga Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Basang Hamog Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Batitang Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Bertese Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Betes Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Bibiclat Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Bucot Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Cabubulaunan Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Caingin Tabing Ilog Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Calipahan Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Campos Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Casulucan Este Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Concepcion Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Doña Lucia Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Esguerra Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Gulod Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Ilong Baliwag Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Maeling Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Mambarao Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Manacsac Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Manaul Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Matingkis Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Mayantoc Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Medico Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Minabuyoc Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Monic Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,"Municipality of Guimba, San Agustin Barangay Health Center",0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,"Municipality of Sto. Domingo, San Agustin Barangay Health Station",0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Pantoc Bulac Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Pinagpanaan Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Pulong Bahay Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Pulong Buli Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Pulong San Miguel Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,San Alejandro Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,San Andres 1 Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,San Eustacio Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,San Manuel Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,San Miguel Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Southwest Poblacion Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Sto. Rosario Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Sto. Tomas Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Sto. Tomas Feria Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Subol Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region III,Nueva Ecija,Tabacao Barangay Health Station,0.0,500000.0,0.0,500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region V,Albay,"Burabod Barangay Health Station, Malinao",1500000.0,0.0,0.0,1500000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region VI,Aklan,Mina Barangay Health Station,400000.0,0.0,0.0,400000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region VIII,Biliran,"Municipality of Caibiran, Asug Barangay Health Station",1180000.0,0.0,0.0,1180000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region VIII,Eastern Samar,"Municipality of Balangkayan, Balogo Barangay Health Station",590000.0,0.0,0.0,590000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region VIII,Western Samar,"City of Catbalogan, Bagongon Barangay Health Station",1000000.0,0.0,0.0,1000000,HREP-GAB
+1. Primary Care Facilities,1.b Completion/Equipping of BHS,Region IX,Sulu,Tandu Barangay Health Station,2000000.0,0.0,0.0,2000000,HREP-GAB
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,Region III,Bataan,Saint Francis II Super Health Center,25000000.0,0.0,0.0,25000000,HREP-GAB
+1. Primary Care Facilities,1.c Construction of New Primary Care Facility,CALABARZON,Batangas,Salao Community Health Center,5000000.0,0.0,0.0,5000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Caloocan, Bagong Silang Phase 10 Health Center",0.0,140000.0,0.0,140000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Caloocan, Bagong Silang Phase 2 Health Center",0.0,140000.0,0.0,140000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Caloocan, Bagumbong Main Health Center",0.0,140000.0,0.0,140000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Caloocan, Barangay 180 Health Center",0.0,185000.0,0.0,185000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Caloocan, Camarin 175 Health Center",0.0,140000.0,0.0,140000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Caloocan, Grace Park Health Center",0.0,140000.0,0.0,140000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Navotas, Bagumbayan Super Health Center",5000000.0,0.0,0.0,5000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Navotas, Kaunlaran Super Health Center",0.0,8800000.0,0.0,8800000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Navotas, Tangos North Super Health Center",5000000.0,0.0,0.0,5000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Navotas, Tanza Pabahay Health Center",0.0,8800000.0,0.0,8800000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Canumay East Health Center",0.0,140000.0,0.0,140000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Don Pedro Health Center",0.0,220000.0,0.0,220000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Gen. T. de Leon (GTDL) Lying-in Clinic",0.0,285000.0,0.0,285000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Mabolo Health Center",0.0,55000.0,0.0,55000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Malanday 3S Health Center",0.0,190000.0,0.0,190000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Northville I Health Center",0.0,220000.0,0.0,220000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Pinalagad Health Center",0.0,190000.0,0.0,190000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Polo Health Center",0.0,440000.0,0.0,440000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Rincon Health Center",0.0,170000.0,0.0,170000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Sitio Kabatuhan Health Center, City of Valenzuela",0.0,220000.0,0.0,220000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Tagalag Health Center",0.0,220000.0,0.0,220000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,"City of Valenzuela, Ugong 3S Health Center",0.0,440000.0,0.0,440000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Metro Manila,Navotas Medical and Wellness Center,0.0,7500000.0,0.0,7500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NCR,Navotas City,"City of Navotas, Tangos Health Center",0.0,140000.0,0.0,140000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,CAR,Abra,Manabo Rural Health Unit,0.0,920000.0,0.0,920000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,CAR,Apayao,Conner Rural Health Unit,0.0,135000.0,0.0,135000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,CAR,Ifugao,Hingyon Rural Health Unit,0.0,135000.0,0.0,135000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,CAR,Ifugao,Mayoyao Rural Health Unit,0.0,135000.0,0.0,135000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,CAR,Kalinga,Pasil Rural Health Unit,0.0,920000.0,0.0,920000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,CAR,Kalinga,Pinukpuk Rural Health Unit I,0.0,1000000.0,0.0,1000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,CAR,Kalinga,Pinukpuk Rural Health Unit II,0.0,920000.0,0.0,920000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,CAR,Kalinga,Rizal Rural Health Unit,0.0,920000.0,0.0,920000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,CAR,Kalinga,Tabuk City Health Office,0.0,920000.0,0.0,920000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,CAR,Kalinga,"Tabuk City, Kalinga Rural Health Unit",2700000.0,0.0,0.0,2700000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,CAR,Kalinga,Tabuk Rural Health Unit I,0.0,1000000.0,0.0,1000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,CAR,Kalinga,Tabuk Rural Health Unit II,0.0,920000.0,0.0,920000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,CAR,Kalinga,Tabuk Rural Health Unit III,0.0,1000000.0,0.0,1000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,CAR,Kalinga,Tabuk Rural Health Unit IV,0.0,920000.0,0.0,920000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,CAR,Kalinga,Tanudan Rural Health Unit,0.0,920000.0,0.0,920000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,CAR,Kalinga,Tinglayan Rural Health Unit,0.0,920000.0,0.0,920000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,CAR,Mountain Province,Bontoc Rural Health Unit,0.0,135000.0,0.0,135000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region III,Bulacan,Obando Super Health Center,0.0,2900000.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region III,Nueva Ecija,"Barangay II, Quezon Super Health Center",0.0,10000000.0,0.0,10000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region III,Nueva Ecija,"Poblacion Sur, Licab Super Health Center",0.0,10000000.0,0.0,10000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,CALABARZON,Batangas,"Laurel, Batangas Super Health Center",2700000.0,540000.0,0.0,3240000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,MIMAROPA,Palawan,"Coron, Palawan Super Health Center",2700000.0,540000.0,0.0,3240000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region V,Albay,"Malilipon, Albay Super Health Center",2700000.0,540000.0,0.0,3240000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region V,Masbate,San Pascual Birthing Facility II,1000000.0,0.0,0.0,1000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VI,Aklan,Pacita Calizo-Cortes Health Center,3500000.0,0.0,0.0,3500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VI,Capiz,Panitan Super Health Center,0.0,2900000.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VI,Capiz,Pontevedra Primary Care Facility,0.0,2900000.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VI,Capiz,President Roxas Primary Care Facility,0.0,2900000.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VI,Capiz,Roxas City Super Health Center,0.0,2900000.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VI,Capiz,Sigma Super Health Center,0.0,2900000.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VI,Iloilo,"Batad, Iloilo Super Health Center",2700000.0,540000.0,0.0,3240000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VI,Iloilo,Miagao Super Health Center,0.0,10000000.0,0.0,10000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VI,Iloilo,Mina Primary Care Facility,2100000.0,0.0,0.0,2100000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VI,Iloilo,San Dionisio Primary Care Facility,2700000.0,0.0,0.0,2700000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VI,Iloilo,Zarraga Super Health Center,2700000.0,540000.0,0.0,3240000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NIR,Negros Occidental,Bago City Rural Health Unit,0.0,5800000.0,0.0,5800000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NIR,Negros Occidental,Cauayan Rural Health Unit,0.0,2900000.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NIR,Negros Occidental,Condoni Rural Health Unit,0.0,2900000.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NIR,Negros Occidental,Hinoba-an Rural Health Unit,0.0,2900000.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NIR,Negros Occidental,Ilog Rural Health Unit,0.0,5800000.0,0.0,5800000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NIR,Negros Occidental,La Carlota City Super Health Center,3500000.0,5800000.0,0.0,9300000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NIR,Negros Occidental,Pulupandan Rural Health Unit,0.0,2900000.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NIR,Negros Occidental,Sipalay Rural Health Unit,0.0,2900000.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NIR,Negros Occidental,Talisay City Rural Health Unit,0.0,17500000.0,0.0,17500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NIR,Negros Occidental,Victorias City Rural Health Unit,35000000.0,11500000.0,0.0,46500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NIR,Negros Oriental,Amlan Rural Health Unit,8800000.0,0.0,0.0,8800000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NIR,Negros Oriental,Bindoy Rural Health Unit,4000000.0,0.0,0.0,4000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NIR,Negros Oriental,Dumaguete Rural Health Unit III,600000.0,0.0,0.0,600000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NIR,Negros Oriental,Guihulngan Rural Health Unit,2900000.0,0.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NIR,Negros Oriental,Mabinay Rural Health Unit,0.0,8800000.0,0.0,8800000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NIR,Negros Oriental,Tanjay City Rural Health Unit,2900000.0,0.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,NIR,Negros Oriental,Vallehermoso Rural Health Unit,2900000.0,0.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VII,Bohol,Corella Rural Health Unit,0.0,1200000.0,0.0,1200000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VII,Bohol,Dauis Super Health Center,1750000.0,0.0,0.0,1750000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VII,Bohol,Tagbilaran City Super Mega Health Center,0.0,35000000.0,0.0,35000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VII,Bohol,Tubigon Rural Health Unit II,0.0,1500000.0,0.0,1500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VII,Cebu,Alegria Rural Health Unit,8000000.0,0.0,0.0,8000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VII,Cebu,Borbon Rural Health Unit II,0.0,2200000.0,0.0,2200000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VII,Cebu,Cordova Primary Care Facility,2900000.0,0.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VII,Cebu,Ronda Rural Health Unit,0.0,3160000.0,0.0,3160000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VII,Cebu,Tudela Rural Health Unit,0.0,160000.0,0.0,160000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VIII,Biliran,Maripipi Rural Health Unit,0.0,2900000.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VIII,Leyte,Jaro Super Health Center,2500000.0,0.0,0.0,2500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VIII,Leyte,Leyte Super Health Center,2500000.0,0.0,0.0,2500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VIII,Leyte,Ormoc City Health Office,0.0,2900000.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VIII,Northern Samar,Allen Rural Health Unit,0.0,300000.0,0.0,300000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VIII,Northern Samar,Bobon Bagong Pilipinas Health Center,2500000.0,0.0,0.0,2500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VIII,Northern Samar,Capul Super Health Center,2500000.0,0.0,0.0,2500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VIII,Northern Samar,Palapag Super Health Center,2700000.0,540000.0,0.0,3240000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VIII,Northern Samar,San Roque Super Health Center,0.0,220000.0,0.0,220000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VIII,Samar,Catbalogan City Health Office,0.0,2900000.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VIII,Samar,Pagsanghan Rural Health Unit,0.0,400000.0,0.0,400000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region VIII,Western Samar,Sta. Rita Super Health Center,2500000.0,0.0,0.0,2500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region IX,Sulu,Parang Rural Health Unit,0.0,2400000.0,0.0,2400000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region IX,Sulu,Tapul Rural Health Unit,2900000.0,540000.0,0.0,3440000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region IX,Zamboanga del Norte,Dipolog City Health Office,2500000.0,0.0,0.0,2500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region IX,Zamboanga del Sur,Mahayag Super Health Center,2500000.0,0.0,0.0,2500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region IX,Zamboanga Sibugay,Siay Rural Health Unit,0.0,1400000.0,0.0,1400000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region X,Lanao del Norte,Munai Super Health Center,0.0,1100000.0,0.0,1100000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region X,Misamis Occidental,Plaridel Rural Health Unit,0.0,650000.0,0.0,650000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region X,Misamis Occidental,Tudela Rural Health Station,0.0,920000.0,0.0,920000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region X,Misamis Oriental,Gingoog Super Health Center,2500000.0,0.0,0.0,2500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XI,Davao de Oro,Compostela Rural Health Unit,0.0,2500000.0,0.0,2500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XI,Davao de Oro,Maragusan Rural Health Unit,0.0,2500000.0,0.0,2500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XI,Davao de Oro,Mawab Municipal Health Office,0.0,2500000.0,0.0,2500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XI,Davao de Oro,Monkayo Rural Health Unit,0.0,2500000.0,0.0,2500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XI,Davao de Oro,Montevista Rural Health Unit,0.0,2500000.0,0.0,2500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XI,Davao de Oro,New Bataan Rural Heath Unit,0.0,2500000.0,0.0,2500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XI,Davao de Oro,Pantukan Municipal Health Office,0.0,2500000.0,0.0,2500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XI,Davao del Norte,Carmen Super Health Center,2500000.0,0.0,0.0,2500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XI,Davao del Sur,Balasiao Super Health Center,2500000.0,0.0,0.0,2500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XI,Davao del Sur,Davao del Sur Super Health Center,2500000.0,0.0,0.0,2500000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XII,Cotabato,Midsayap Rural Health Unit,5000000.0,0.0,0.0,5000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XII,Sultan Kudarat,Masiag Rural Health Unit Annex,1470000.0,0.0,0.0,1470000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XIII,City of Butuan,Libertad Main Health Center,1000000.0,0.0,0.0,1000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XIII,Dinagat Islands,Dinagat Rural Health Unit,1000000.0,0.0,0.0,1000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XIII,Dinagat Islands,Libjo Rural Health Unit,210000.0,0.0,0.0,210000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XIII,Dinagat Islands,Loreto Municipal Health Office (Rural Health Unit),1000000.0,0.0,0.0,1000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XIII,Surigao del Norte,Cabawa Birthing Facility,120000.0,0.0,0.0,120000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XIII,Surigao del Norte,Cagniyog Super Health Center,1750000.0,2000000.0,0.0,3750000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XIII,Surigao del Norte,General Luna Super Health Center,2900000.0,0.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XIII,Surigao del Norte,Luna Super Health Center - Surigao City,2900000.0,0.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XIII,Surigao del Sur,Bayabas Municipal Health and Sanitation Office,0.0,360000.0,0.0,360000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XIII,Surigao del Sur,Cortes Rural Health Unit,0.0,170000.0,0.0,170000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XIII,Surigao del Sur,Lianga Rural Health Unit,0.0,140000.0,0.0,140000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XIII,Surigao del Sur,Tago Rural Health Unit,0.0,2900000.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,Region XIII,Surigao del Sur,Tandag Super Health Center,2900000.0,0.0,0.0,2900000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,BARMM,Special Geographic Area,Pikit 1 Cluser Rural Health Unit,0.0,6000000.0,0.0,6000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,BARMM,Special Geographic Area,Pikit 2 Cluser Rural Health Unit,0.0,6000000.0,0.0,6000000,HREP-GAB
+1. Primary Care Facilities,1.d Completion/Equipping of Primary Care Facilities,BARMM,Special Geographic Area,Pikit 3 Cluser Rural Health Unit,0.0,6000000.0,0.0,6000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NCR,Metro Manila,Justice Jose Abad Santos General Hospital,0.0,25000000.0,0.0,25000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NCR,Metro Manila,Mandaluyong City Medical Center,0.0,20000000.0,0.0,20000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NCR,Metro Manila,Navotas City Hospital,0.0,8400000.0,0.0,8400000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NCR,Metro Manila,Novaliches District Hospital,0.0,13000000.0,0.0,13000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NCR,Metro Manila,Ospital ng Malabon,0.0,19365000.0,0.0,19365000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NCR,Metro Manila,Ospital ng Muntinlupa,0.0,15000000.0,0.0,15000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NCR,Metro Manila,Ospital Ng Paranaque I,0.0,25000000.0,0.0,25000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NCR,Metro Manila,Ospital Ng Paranaque II,0.0,30000000.0,0.0,30000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NCR,Metro Manila,Ospital ng Sampaloc,15000000.0,0.0,0.0,15000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NCR,Metro Manila,Pasay City General Hospital,25000000.0,25000000.0,0.0,50000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NCR,Metro Manila,San Juan Medical Center,0.0,20000000.0,0.0,20000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NCR,Metro Manila,Sta. Ana Hospital,0.0,7000000.0,0.0,7000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NCR,Metro Manila,Valenzuela Health Medical Center (ValHealth),80000000.0,0.0,0.0,80000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region I,Ilocos Norte,Bangui District Hospital,175000000.0,0.0,0.0,175000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region I,Ilocos Norte,Dona Josefa Edralin Marcos District Hospital,10682000.0,0.0,0.0,10682000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region I,Ilocos Norte,Governor Roque B. Ablan Sr. Memorial Hospital,50000000.0,0.0,0.0,50000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region I,Ilocos Norte,Laoag City General Hospital,75000000.0,200000000.0,0.0,275000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,CAR,Ifugao,Tinoc District Hospital,6900000.0,0.0,0.0,6900000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,CAR,Kalinga,Kalinga Provincial Hospital,0.0,6500000.0,0.0,6500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,CAR,Kalinga,Pinukpuk District Hospital,0.0,450000.0,0.0,450000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,CAR,Kalinga,Tanudan Municipal Hospital,6900000.0,2400000.0,0.0,9300000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,CAR,Kalinga,Western Kalinga District Hospital,2500000.0,0.0,0.0,2500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,CAR,Mountain Province,Barlig District Hospital,9200000.0,0.0,0.0,9200000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,CAR,Mountain Province,Besao District Hospital,11500000.0,0.0,0.0,11500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,CAR,Mountain Province,Paracelis District Hospital,11500000.0,0.0,0.0,11500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Batanes,Itbayat Disctrict Hospital,0.0,5000000.0,0.0,5000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Cagayan,Baggao District Hospital,13000000.0,0.0,0.0,13000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Cagayan,Calayan Infirmary Hospital,9200000.0,0.0,0.0,9200000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Cagayan,Dr. Tomas Nolasco Sr. Memorial Hospital,0.0,5400000.0,0.0,5400000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Cagayan,Lasam District Hospital,13500000.0,0.0,0.0,13500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Cagayan,Nuestra Seniora de Piat District Hospital,9500000.0,0.0,0.0,9500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Isabela,Angadanan Integrated Community Hospital,30000000.0,20000000.0,0.0,50000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Isabela,Cauayan City Medical Center,360000000.0,0.0,0.0,360000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Isabela,Cauayan District Hospital,50000000.0,75000000.0,0.0,125000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Isabela,Echague District Hospital,20000000.0,20000000.0,0.0,40000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Isabela,Governor Faustino N. Dy Sr. Memorial Hospital,50000000.0,0.0,0.0,50000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Isabela,Mallig District Hospital,20000000.0,20000000.0,0.0,40000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Isabela,Manuel A. Roxas District Hospital,30000000.0,40000000.0,0.0,70000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Isabela,Quezon Community Hospital,0.0,20000000.0,0.0,20000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Isabela,Roxas Community Hospital,0.0,25000000.0,0.0,25000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Isabela,San Mateo Community Hospital,0.0,20000000.0,0.0,20000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Nueva Vizcaya,Dupax District Hospital,8000000.0,0.0,0.0,8000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Nueva Vizcaya,Kasibu Municipal Hospital,10000000.0,0.0,0.0,10000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region II,Nueva Vizcaya,Nueva Vizcaya Provincial Hospital,13500000.0,0.0,0.0,13500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Aurora,Aurora Memorial Hospital,10000000.0,30000000.0,0.0,40000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Bataan,Morong District Hospital,0.0,49000000.0,0.0,49000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Bataan,Jose C. Payumo Jr. Memorial Hospital,0.0,14600000.0,0.0,14600000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Bulacan,Bulacan Medical Center,15000000.0,0.0,0.0,15000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Bulacan,Bustos Community Hospital,0.0,15000000.0,0.0,15000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Bulacan,Ospital ng Lungsod San Jose del Monte,0.0,80000000.0,0.0,80000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Bulacan,St. Bernadette Children and Maternity Hospital,0.0,50000000.0,0.0,50000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Masantol,Masantol Community Hospital in Pampanga,5400000.0,0.0,0.0,5400000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Nueva Ecija,Guimba District Hospital,50000000.0,50000000.0,0.0,100000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Nueva Ecija,San Antonio District Hospital,0.0,95000.0,0.0,95000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Nueva Ecija,Sto. Domingo District Hospital,30000000.0,50000000.0,0.0,80000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Pampanga,Candaba Municipal Infirmary,0.0,75000000.0,0.0,75000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Tarlac,Camiling District Hospital,0.0,20000000.0,0.0,20000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Tarlac,Capas Medical Complex,5400000.0,0.0,0.0,5400000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Tarlac,Concepcion District Hospital,14500000.0,0.0,0.0,14500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Tarlac,"Congressman Enrique ""Henry"" M. Cojuangco Memorial",0.0,20000000.0,0.0,20000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Tarlac,District Hospital Gilberto O. Teodoro Memorial Hospital,10000000.0,10000000.0,0.0,20000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Tarlac,La Paz Medicare and Community Hospital,20000000.0,0.0,0.0,20000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Tarlac,Moncada District Hospital,11700000.0,0.0,0.0,11700000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Tarlac,Paniqui General Hospital,0.0,20000000.0,0.0,20000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Tarlac,Tarlac City General Hospital,10000000.0,0.0,0.0,10000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Tarlac,Tarlac Provincial Hospital,0.0,20000000.0,0.0,20000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Zambales,San Marcelino District Hospital,0.0,10000000.0,0.0,10000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region III,Zambales,Subic General Hospital,0.0,30000000.0,0.0,30000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,CALABARZON,Batangas,Batangas Provincial Medical Center,0.0,80000000.0,0.0,80000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,CALABARZON,Cavite,General Emilio Aguinaldo Memorial Hospital,0.0,15000000.0,0.0,15000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,CALABARZON,Cavite,Ospital ng Tagaytay,0.0,20000000.0,0.0,20000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,CALABARZON,Laguna,Ospital ng Biñan,25000000.0,0.0,0.0,25000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,CALABARZON,Laguna,San Pablo City District Hospital,25000000.0,0.0,0.0,25000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,CALABARZON,Laguna,Sta. Rosa City Community Hospital,0.0,30000000.0,0.0,30000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,MIMAROPA,Marinduque,Marinduque Provincial Hospital,0.0,9000000.0,0.0,9000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,MIMAROPA,Marinduque,Torrijos Municipal Hospital,0.0,2500000.0,0.0,2500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,MIMAROPA,Occidental Mindoro,Lubang District Hospital,10000000.0,0.0,0.0,10000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,MIMAROPA,Occidental Mindoro,Occidental Mindoro Provincial Hospital,10000000.0,0.0,0.0,10000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,MIMAROPA,Occidental Mindoro,San Jose District Hospital,10000000.0,0.0,0.0,10000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,MIMAROPA,Oriental Mindoro,Oriental Mindoro Central District Hospital,10000000.0,0.0,0.0,10000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,MIMAROPA,Oriental Mindoro,Oriental Mindoro Provincial Hospital,16000000.0,0.0,0.0,16000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,MIMAROPA,Oriental Mindoro,Oriental Mindoro Southern District Hospital,13000000.0,0.0,0.0,13000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,MIMAROPA,Palawan,Aborlan Medicare Hospital,25000000.0,0.0,0.0,25000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,MIMAROPA,Palawan,Araceli Dumaran District Hospital,0.0,4500000.0,0.0,4500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,MIMAROPA,Palawan,Coron District Hospital,30000000.0,20000000.0,0.0,50000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,MIMAROPA,Palawan,El Nido Community Hospital,0.0,4500000.0,0.0,4500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,MIMAROPA,Romblon,Romblon District Hospital,0.0,10000000.0,0.0,10000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,MIMAROPA,Romblon,Romblon Provincial Hospital,0.0,11500000.0,0.0,11500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,MIMAROPA,Romblon,Sibuyan District Hospital,0.0,10000000.0,0.0,10000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region V,Camarines Norte,Labo District Hospital,5000000.0,0.0,0.0,5000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region V,Camarines Sur,Tinambac Municipal Hospital,0.0,5000000.0,0.0,5000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region V,Catanduanes,Eastern Bicol Medical Center,0.0,25000000.0,0.0,25000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region V,Masbate,Cawayan Municipal Hospital,0.0,5000000.0,0.0,5000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region V,Sorsogon,Bulan Medicare Hospital,20000000.0,0.0,0.0,20000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region V,Sorsogon,Gubat District Hospital,20000000.0,0.0,0.0,20000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VI,Aklan,Dr. Ramon B. Legaspi Sr. Memorial Hospital,25000000.0,0.0,0.0,25000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VI,Aklan,Ibajay District Hospital,15000000.0,11500000.0,0.0,26500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VI,Antique,Angel Salazar Memorial General Hospital,20000000.0,10000000.0,0.0,30000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VI,Antique,Patnongon Community Hospital,20000000.0,0.0,0.0,20000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VI,Antique,Ramon Maza Sr. Memorial District Hospital,10000000.0,0.0,0.0,10000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VI,Capiz,Capiz General Hospital,25000000.0,50000000.0,0.0,75000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VI,Guimaras,Buenavista Emergency Hospital,0.0,50000000.0,0.0,50000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VI,Guimaras,Dr. Catalino Gallego Nava Provincial Hospital,30000000.0,32000000.0,0.0,62000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VI,Guimaras,Nueva Valencia District Hospital,25000000.0,0.0,0.0,25000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VI,Iloilo,Iloilo Provincial Hospital,0.0,50000000.0,0.0,50000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VI,Iloilo,Passi City Hospital,0.0,15000000.0,0.0,15000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VI,Iloilo,Rep. Pedro G. Trono Memorial Hospital,155000000.0,0.0,0.0,155000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VI,Iloilo,San Joaquin Mother & Child Hospital,15240000.0,0.0,0.0,15240000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VI,Iloilo,Sara District Hospital,20000000.0,0.0,0.0,20000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Occidental,"Alfredo E. Maranon, Sr. Memorial District Hospital",14000000.0,0.0,0.0,14000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Occidental,Bago City Hospital,50000000.0,0.0,0.0,50000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Occidental,Cadiz City District Hospital,19704000.0,13500000.0,0.0,33204000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Occidental,Cadiz City Hospital (Different Facility from Cadiz DISTRICT Hospital),24200000.0,20000000.0,0.0,44200000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Occidental,Don Salvador Benedicto Memorial District Hospital,0.0,13500000.0,0.0,13500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Occidental,Gov. Valeriano M. Gatuslao Memorial District Hospital,17500000.0,14000000.0,0.0,31500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Occidental,La Castellana Hospital,0.0,5500000.0,0.0,5500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Occidental,San Carlos City Hospital,17500000.0,8800000.0,0.0,26300000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Occidental,Teresita L. Jalandoni Provincial Hospital,0.0,50000000.0,0.0,50000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Occidental,Valladolid District Hospital,0.0,9000000.0,0.0,9000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Oriental,Bais City District Hospital,8800000.0,13500000.0,0.0,22300000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Oriental,Bayawan District Hospital,13000000.0,13500000.0,0.0,26500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Oriental,Bindoy District Hospital,13500000.0,0.0,0.0,13500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Oriental,Canlaon City District Hospital,18000000.0,7000000.0,0.0,25000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Oriental,Cong. Lamberto L. Macias Memorial Hospital,11500000.0,11500000.0,0.0,23000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Oriental,Gov. William Villegas Memorial Hospital,20000000.0,8000000.0,0.0,28000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Oriental,Luz-Sikatuna Community Primary Hospital,9500000.0,19000000.0,0.0,28500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Oriental,Negros Oriental Provincial Hospital,11500000.0,17000000.0,0.0,28500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Negros Oriental,Tanjay City General Hospital,22000000.0,0.0,0.0,22000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Siquijor,Lazi Medicare Community Hospital,0.0,35000000.0,0.0,35000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,NIR,Siquijor,Siquijor Provincial Hospital,50000000.0,50000000.0,0.0,100000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VII,Bohol,Francisco Dagohoy Memorial Hospital,0.0,15003000.0,0.0,15003000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VII,Cebu,Mandaue City Hospital,50000000.0,0.0,0.0,50000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Biliran,Biliran Provincial Hospital,0.0,10000000.0,0.0,10000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Eastern Samar,Albino Duran Memorial Hospital,0.0,2800000.0,0.0,2800000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Eastern Samar,Eastern Samar Provincial Hospital,0.0,50000000.0,0.0,50000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Eastern Samar,Felipe Abrigo Memorial Hospital,0.0,6000000.0,0.0,6000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Eastern Samar,Oras District Hospital,0.0,3200000.0,0.0,3200000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Eastern Samar,Taft District Hospital,0.0,3000000.0,0.0,3000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Leyte,Barugo Municipal Hospital,0.0,2300000.0,0.0,2300000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Leyte,Carigara District Hospital,0.0,4000000.0,0.0,4000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Leyte,Leyte Provincial Hospital,0.0,20000000.0,0.0,20000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Leyte,Matalom Community Hospital,0.0,450000.0,0.0,450000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Leyte,Northwestern Leyte District Hospital,0.0,4000000.0,0.0,4000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Leyte,Ormoc City Hospital,0.0,1300000.0,0.0,1300000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Leyte,Tacloban City Hospital,0.0,1700000.0,0.0,1700000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Northern Samar,Allen District Hospital,0.0,16835000.0,0.0,16835000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Northern Samar,Dr. Gregorio B. Tan Memorial Hospital,0.0,8065000.0,0.0,8065000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Northern Samar,North Samar Provincial Hospital,0.0,50000000.0,0.0,50000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Northern Samar,San Antonio District Hospital,50000000.0,0.0,0.0,50000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Samar,Tarangan Community Hospital,0.0,5800000.0,0.0,5800000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region VIII,Western Samar,Tarangnan Community Hospital,0.0,10347000.0,0.0,10347000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region IX,Zamboanga del Norte,Sibutad District Hospital,10000000.0,0.0,0.0,10000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region IX,Zamboanga del Sur,Zamboanga del Sur Medical Center,10000000.0,0.0,0.0,10000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region IX,Zamboanga Sibugay,Alicia District Hospital,13000000.0,0.0,0.0,13000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region IX,Zamboanga Sibugay,Dr. George Tocao Hofer Medical Center,10000000.0,0.0,0.0,10000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region IX,Zamboanga Sibugay,Olutanga Municipal Hospital,12500000.0,0.0,0.0,12500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region X,Bukidnon,Bukidnon Provincial Hospital - Maramag,1750000.0,0.0,0.0,1750000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region X,Camiguin,Catarman District Hospital,0.0,10000000.0,0.0,10000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region X,City of Cagayan De Oro,JR Borja General Hospital,50000000.0,0.0,0.0,50000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region X,Lanao del Norte,Kapatagan Provincial Hospital,0.0,1750000.0,0.0,1750000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region X,Lanao del Norte,Lanao del Norte Provincial Hospital - Baroy,1750000.0,0.0,0.0,1750000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region X,Misamis Occidental,ASENSO Misamis Occidental Medical Center,0.0,120000000.0,0.0,120000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region X,Misamis Occidental,Dona Marida D. Tan Memorial Hospital,1750000.0,0.0,0.0,1750000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region X,Misamis Occidental,SM Lao Memorial City General Hospital,1750000.0,0.0,0.0,1750000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region X,Misamis Oriental,El Salvador Infirmary,1750000.0,0.0,0.0,1750000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region X,Misamis Oriental,Misamis Oriental Provincial Hospital - Balingasag,0.0,25000000.0,0.0,25000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region X,Misamis Oriental,St. Paul Hospital,80000000.0,0.0,0.0,80000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XI,Davao de Oro,Davao de Oro Provincial Hospital - Laak,50000000.0,0.0,0.0,50000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XI,Davao de Oro,Davao de Oro Provincial Hospital - Maragusan,0.0,50000000.0,0.0,50000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XI,Davao de Oro,Davao de Oro Provincial Hospital - Pantukan,15000000.0,0.0,0.0,15000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XI,Davao de Oro,Monkayo Community Infirmary,15000000.0,0.0,0.0,15000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XI,Davao del Norte,Davao del Norte Hospital - Kapalong,2900000.0,0.0,0.0,2900000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XI,Davao del Norte,Davao del Norte Hospital- Carmen Zone,0.0,30000000.0,0.0,30000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XI,Davao del Norte,Davao del Norte Hospital- Kapalong Zone,20000000.0,20000000.0,0.0,40000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XI,Davao del Norte,Davao Prison and Penal Farm Hospital,2900000.0,0.0,0.0,2900000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XI,Davao del Sur,Davao del Sur Provincial Hospital,10000000.0,0.0,0.0,10000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XI,Davao del Sur,Gregorio Matas District Hospital,15000000.0,0.0,0.0,15000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XI,Davao Occidental,Malita Womens and Child Hospital - Malita,2900000.0,0.0,0.0,2900000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XI,Davao Oriental,Davao Oriental Provincial Medical Center - Cateel,15000000.0,0.0,0.0,15000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XI,Davao Oriental,Davao Oriental Provincial Medical Center - Manay,15000000.0,0.0,0.0,15000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XII,Cotabato,Cotabato Provincial Hospital,0.0,17500000.0,0.0,17500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XII,Cotabato,Kidapawan City General Hospital,0.0,35000000.0,0.0,35000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XII,Cotabato,Kidapawan City Hospital,0.0,50000000.0,0.0,50000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XII,South Cotabato,South Cotabato Provincial Hospital,100000000.0,0.0,0.0,100000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XII,Sultan Kudarat,Bagumbayan Infirmary,10000000.0,0.0,0.0,10000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XII,Sultan Kudarat,Sultan Kudarat Provincial Hospital,0.0,10000000.0,0.0,10000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XIII,City of Butuan,Butuan Medical Center,0.0,75000000.0,0.0,75000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XIII,Dinagat Islands,Loreto District Hospital,4000000.0,0.0,0.0,4000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XIII,Surigao del Norte,Claver Infirmary,0.0,3000000.0,0.0,3000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XIII,Surigao del Norte,Del Carmen District Hospital,0.0,650000.0,0.0,650000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XIII,Surigao del Norte,Gigaquit District Hospital,0.0,550000.0,0.0,550000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XIII,Surigao del Norte,Mainit District Hospital,0.0,150000.0,0.0,150000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XIII,Surigao del Norte,Malimono District Hospital,0.0,130000.0,0.0,130000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XIII,Surigao del Norte,Pilar District Hospital,0.0,180000.0,0.0,180000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XIII,Surigao del Norte,Socorro District Hospital,0.0,550000.0,0.0,550000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XIII,Surigao del Norte,Sta. Monica District Hospital,0.0,500000.0,0.0,500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XIII,Surigao del Norte,Surigao del Norte Provincial Hospital,0.0,1000000.0,0.0,1000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XIII,Surigao del Sur,Cortes Municipal Hospital,20000000.0,0.0,0.0,20000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XIII,Surigao del Sur,Lianga District Hospital,0.0,2300000.0,0.0,2300000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XIII,Surigao del Sur,Lingig Community Hospital,5000000.0,0.0,0.0,5000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XIII,Surigao del Sur,Marihatag District Hospital,0.0,1000000.0,0.0,1000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,Region XIII,Surigao del Sur,San Miguel Community Hospital,3000000.0,0.0,0.0,3000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,BARMM,Basilan,Lamitan District Hospital - Lamitan City,4000000.0,0.0,0.0,4000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,BARMM,Basilan,Sumisip District Hospital,4700000.0,0.0,0.0,4700000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,BARMM,Lanao del Sur,Balindong District Hospital,12000000.0,0.0,0.0,12000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,BARMM,Lanao del Sur,Wao District Hospital,9000000.0,0.0,0.0,9000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,BARMM,Maguindanao del Norte,Datu Blah Sinsuat District Hospital - Upi,6000000.0,0.0,0.0,6000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,BARMM,Maguindanao del Norte,Datu Odin Sinsuat District Hospital,6000000.0,0.0,0.0,6000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,BARMM,Maguindanao del Norte,Iranon Provincial Hospital,20000000.0,6500000.0,0.0,26500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,BARMM,Maguindanao del Norte,Sibuto District Hospital,4500000.0,0.0,0.0,4500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,BARMM,Maguindanao del Sur,Buluan District Hospital - Buluan,6000000.0,0.0,0.0,6000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,BARMM,Maguindanao del Sur,Maguindanao Provincial Hospital,0.0,13000000.0,0.0,13000000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,BARMM,Tawi-Tawi,Datu Halun Sakilan Memorial Hospital - Boggao,0.0,5500000.0,0.0,5500000,HREP-GAB
+2. LGU Hospitals,2.a Completion/Equipping of LGU Hospitals,BARMM,Tawi-Tawi,Languyan District Hospital,4000000.0,0.0,0.0,4000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,NCR,Metro Manila,Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium,610000000.0,0.0,0.0,610000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,NCR,Metro Manila,Las Piñas General Hospital and Satellite Trauma Center,15000000.0,0.0,0.0,15000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,NCR,Metro Manila,National Center for Mental Health,15000000.0,0.0,0.0,15000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,NCR,Metro Manila,Valenzuela Medical Center,100000000.0,0.0,0.0,100000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region I,Ilocos Norte,Mariano Marcos Memorial Hospital and Medical Center,0.0,50000000.0,0.0,50000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region I,La Union,Ilocos Training and Regional Medical Center,0.0,30000000.0,0.0,30000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region I,Pangasinan,Region I Medical Center,0.0,50000000.0,0.0,50000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,CAR,Apayao,Conner District Hospital Dialysis Center,10000000.0,0.0,0.0,10000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region II,Batanes,Batanes General Hospital,0.0,10000000.0,0.0,10000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region II,Cagayan,Cagayan Valley Medical Center,15000000.0,50000000.0,0.0,65000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region II,Cagayan,Northwestern Cagayan General Hospital,50000000.0,0.0,0.0,50000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region III,Bataan,Bataan General Hospital and Medical Center,50000000.0,0.0,0.0,50000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region III,Bataan,Mariveles Mental Wellness and General Hospital,40000000.0,0.0,0.0,40000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region III,Bulacan,Joni Villanueva General Hospital,0.0,10000000.0,0.0,10000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region III,Nueva Ecija,Dr. Paulino J. Garcia Memorial Research and Medical Center,0.0,50000000.0,0.0,50000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region III,Nueva Ecija,Talavera General Hospital,0.0,10000000.0,0.0,10000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region III,Pampanga,Central Luzon Center for Health Development (Clark Multi- Specialty Medical Center),150000000.0,200000000.0,0.0,350000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,CALABARZON,Cavite,Southern Tagalog Regional Hospital,60000000.0,0.0,0.0,60000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,CALABARZON,Laguna,Laguna Regional Hospital,40000000.0,0.0,0.0,40000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,CALABARZON,Quezon,Lucena City Hospital,20000000.0,0.0,0.0,20000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,CALABARZON,Quezon,Southern Luzon Multi-Specialty Medical Center,40000000.0,0.0,0.0,40000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region VI,Iloilo,Western Visayas Medical Center,30000000.0,0.0,0.0,30000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region VI,Iloilo,Western Visayas Sanitarium and General Hospital,10000000.0,20000000.0,0.0,30000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region VII,Cebu,Cebu South Medical Center,0.0,50000000.0,0.0,50000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region VII,Cebu,Eversley Child Sanitarium and General Hospital,25000000.0,0.0,0.0,25000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region VIII,Samar,Samar Island Medical Center,80000000.0,10000000.0,0.0,90000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region IX,Zamboanga del Norte,Liloy General Hospital,350000000.0,0.0,0.0,350000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region X,Camiguin,Camiguin General Hospital,90000000.0,59703000.0,0.0,149703000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region X,Lanao del Sur,Amai Pakpak Medical Center,0.0,50000000.0,0.0,50000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region X,Misamis Occidental,Mayor Hilarion A. Ramiro Sr. Medical Center,100000000.0,0.0,0.0,100000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region X,Misamis Oriental,First Misamis Oriental General Hospital,60000000.0,20000000.0,0.0,80000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region X,Misamis Oriental,North Eastern Misamis General Hospital,100000000.0,0.0,0.0,100000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region XI,Davao del Norte,Davao Regional Medical Center,20000000.0,0.0,0.0,20000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region XI,Davao Occidental,Davao Occidental General Hospital,50000000.0,25000000.0,0.0,75000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region XII,Maguindanao del Norte,Cotabato Regional and Medical Center,0.0,20000000.0,0.0,20000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region XII,Maguindanao del Norte,Cotabato Sanitarium and General Hospital,0.0,35000000.0,0.0,35000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region XII,South Cotabato,SOCCSKSARGEN General Hospital,130000000.0,0.0,0.0,130000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region XIII,Surigao del Norte,Caraga Regional Hospital,0.0,50000000.0,0.0,50000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,Region XIII,Surigao del Sur,Adela Serra Ty Memorial Medical Center,0.0,37000000.0,0.0,37000000,HREP-GAB
+3. DOH Hospitals,3.a Completion/Equipping of DOH Hospitals,BARMM,Basilan,Basilan Medical Center,15000000.0,20000000.0,0.0,35000000,HREP-GAB
+4. BUCAS,4.a Completion of BUCAS,Region X,Camiguin,Guinsiliban BUCAS Center,1700000.0,0.0,0.0,1700000,HREP-GAB
+4. BUCAS,4.a Completion of BUCAS,Region X,Camiguin,Mahinog BUCAS Center,1700000.0,0.0,0.0,1700000,HREP-GAB
+4. BUCAS,4.a Completion of BUCAS,Region X,Misamis Occidental,Plaridel BUCAS Center,1000000.0,0.0,0.0,1000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,Region I,La Union,"DOH DATRC - San Fernando, La Union",0.0,25000000.0,0.0,25000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,Region I,Pangasinan,DOH DATRC - Dagupan,13000000.0,0.0,0.0,13000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,CAR,Mountain Province,"DOH DATRC - Bauko, Mountain Province",4000000.0,0.0,0.0,4000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,Region II,Isabela,"DOH DATRC - Ilagan, Isabela",10000000.0,0.0,0.0,10000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,Region III,Bataan,"DOH DATRC - Pilar, Bataan",50000000.0,0.0,0.0,50000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,Region III,Nueva Ecija,DOH Mega Drug Abuse Treatment and Rehabilitation Center,15000000.0,0.0,0.0,15000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,CALABARZON,Cavite,DOH DATRC - CALABARZON,20000000.0,0.0,0.0,20000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,CALABARZON,Cavite,DOH DATRC - Tagaytay,20000000.0,0.0,0.0,20000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,Region V,Albay,DOH DATRC - Malinao,15000000.0,5000000.0,0.0,20000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,Region V,Camarines Sur,"DOH DATRC - San Fernando, Camarines Sur",15000000.0,0.0,0.0,15000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,Region VI,Iloilo,"DOH DATRC - Pototan, Iloilo",15000000.0,0.0,0.0,15000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,Region VIII,Leyte,"DOH DATRC - Dulag, Leyte",15000000.0,0.0,0.0,15000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,Region IX,Zamboanga del Sur,DOH DATRC - Zamboanga,0.0,5000000.0,0.0,5000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,Region X,Bukidnon,DOH DATRC - Bukidnon,10000000.0,0.0,0.0,10000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,Region X,Misamis Oriental,DOH DATRC - Cagayan de Oro,15000000.0,0.0,0.0,15000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,Region XI,Davao del Sur,"DOH DATRC - Malagos, Davao",15000000.0,0.0,0.0,15000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,Region XII,Sarangani,DOH DATRC - SOCCSKSARGEN,0.0,2000000.0,0.0,2000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,Region XIII,Agusan del Sur,DOH DATRC - Agusan del Sur,12000000.0,0.0,0.0,12000000,HREP-GAB
+5. Drug Abuse Treatment and Rehabilitation Centers,5.a Completion/Equipping of DOH Drug Abuse Treatment and Rehabilitation Centers,Region XIII,Surigao del Norte,DOH DATRC - Caraga,15000000.0,0.0,0.0,15000000,HREP-GAB
+6. Bureau of Quarantine,6.a Completion/Equipping of Bureau of Quarantine Facilities,NCR,Metro Manila,Bureau of Quarantine - Manila Station,0.0,220000.0,0.0,220000,HREP-GAB
+6. Bureau of Quarantine,6.a Completion/Equipping of Bureau of Quarantine Facilities,Region III,Pampanga,Bureau of Quarantine - Clark Station,0.0,180000.0,0.0,180000,HREP-GAB
+6. Bureau of Quarantine,6.a Completion/Equipping of Bureau of Quarantine Facilities,Region V,Albay,Bureau of Quarantine - Tabaco Station,0.0,110000.0,0.0,110000,HREP-GAB
+6. Bureau of Quarantine,6.a Completion/Equipping of Bureau of Quarantine Facilities,Region VI,Iloilo,Bureau of Quarantine - Iloilo Station,0.0,160000.0,0.0,160000,HREP-GAB
+6. Bureau of Quarantine,6.a Completion/Equipping of Bureau of Quarantine Facilities,Region VII,Cebu,Bureau of Quarantine - Cebu Station,0.0,160000.0,0.0,160000,HREP-GAB
+6. Bureau of Quarantine,6.a Completion/Equipping of Bureau of Quarantine Facilities,Region IX,Zamboanga del Sur,Bureau of Quarantine - Zamboanga Station,0.0,110000.0,0.0,110000,HREP-GAB
+6. Bureau of Quarantine,6.a Completion/Equipping of Bureau of Quarantine Facilities,Region XI,Davao del Sur,Bureau of Quarantine - Davao Station,0.0,180000.0,0.0,180000,HREP-GAB
+7. Other Health Care Facilities,7.a Blood Facilities,Region VII,City of Cebu,Central Visayas Sub National Blood Center,15000000.0,0.0,0.0,15000000,HREP-GAB
+7. Other Health Care Facilities,7.a Blood Facilities,Region XII,Maguindanao del Norte,Regional Blood Center,15000000.0,0.0,0.0,15000000,HREP-GAB
+7. Other Health Care Facilities,7.a Blood Facilities,Region XII,South Cotabato,SOCCSKSARGEN Regional Blood Center,15000000.0,0.0,0.0,15000000,HREP-GAB
+7. Other Health Care Facilities,7.b Laboratories,Region II,Isabela,Region II Sub National Reference Laboratory,20000000.0,0.0,0.0,20000000,HREP-GAB
+7. Other Health Care Facilities,7.b Laboratories,Region X,City of Cagayan De Oro,Regional Public Health Laboratory (Non-Infectious),10000000.0,0.0,0.0,10000000,HREP-GAB
+7. Other Health Care Facilities,7.b Laboratories,Region XII,South Cotabato,SOCCSKSARGEN Sub National Reference Laboratory,20000000.0,0.0,0.0,20000000,HREP-GAB
+7. Other Health Care Facilities,7.b Laboratories,Region XII,South Cotabato,Sub National Reference Laboratory,20000000.0,0.0,0.0,20000000,HREP-GAB
+7. Other Health Care Facilities,7.c Dialysis Centers,Region II,Cagayan,Solana Renal & Diagnostic Center,0.0,6000000.0,0.0,6000000,HREP-GAB
+7. Other Health Care Facilities,7.c Dialysis Centers,Region VI,Iloilo,"Sara, Iloilo Dialysis Center",20000000.0,0.0,0.0,20000000,HREP-GAB
+7. Other Health Care Facilities,7.c Dialysis Centers,Region VI,Iloilo,"Tigbauan, Iloilo Dialysis Center",6000000.0,0.0,0.0,6000000,HREP-GAB
+7. Other Health Care Facilities,7.c Dialysis Centers,Region VI,Iloilo,Guimbal Iloilo Dialysis Center,0.0,25000000.0,0.0,25000000,HREP-GAB
+7. Other Health Care Facilities,7.d Central Office,NCR,Metro Manila,DOH Central Office,0.0,0.0,130700000.0,130700000,HREP-GAB
+8. State Universities,8.a Completion/Equipping of State Universities,NCR,Metro Manila,Philippine General Hospital,0.0,2000000.0,0.0,2000000,HREP-GAB
+8. State Universities,8.a Completion/Equipping of State Universities,Region VI,City of Iloilo,West Visayas State University Medical Center,200000000.0,0.0,0.0,200000000,HREP-GAB
